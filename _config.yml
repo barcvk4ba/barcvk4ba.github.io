@@ -32,11 +32,13 @@ github_username:  barcvk4ba
 
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 
 plugins:
     - jekyll-feed
     - jekyll-archive
+    - jekyll-include-cache
 
 # Configure home page post pagination
 paginate: 5
