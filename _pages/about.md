@@ -1,8 +1,6 @@
 ---
-layout: page
 title: About Us
 permalink: /about/
-navigation_weight: 40
 ---
 
 The Brisbane Amateur Radio Club was formed to promote the hobby of Amateur Radio and Electronics.

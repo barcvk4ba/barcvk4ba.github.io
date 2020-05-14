@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Repeaters
 permalink: /repeaters/
-navigation_weight: 20
+toc: true
 ---
 
 # VK4RBA

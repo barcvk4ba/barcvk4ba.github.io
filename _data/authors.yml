@@ -1,0 +1,10 @@
+# Add authors here. Then you can set page/post front matter to select the author to
+# render a little bio.
+#
+# eg:
+# author: VK4ASH
+
+VK4ASH:
+    name: "Ashley Roll"
+    bio: "VK4ASH"
+

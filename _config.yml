@@ -1,10 +1,5 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
@@ -37,19 +32,55 @@ github_username:  barcvk4ba
 
 
 # Build settings
-theme: minima
-
-# Minima specific settings
-show_excerpts: true         # Enable post excerpts to be shown on home page
-
+theme: minimal-mistakes-jekyll
 
 plugins:
-  - jekyll-feed
+    - jekyll-feed
+    - jekyll-archive
+
+# Configure home page post pagination
+paginate: 5
+paginate_path: /page:num/
+
 
 # Timezone
 timezone: Australia/Brisbane
 
+# Estabilish defaults for Pages and Posts
+defaults:
+    # _posts
+    - scope:
+        path: ""
+        type: posts
+      values:
+        layout: single
+        sidebar:
+            nav: docs           # sidebar navigation list in _data/navigation.yml
+        author_profile: true
+        read_time: true
+        comments: false
+        share: false
+        related: false
 
+    # _pages
+    - scope:
+        path: ""
+        type: pages
+      values:
+        layout: single
+        sidebar:
+            nav: docs           # sidebar navigation list in _data/navigation.yml
+        author_profile: false
+        read_time: true
+        comments: false
+        share: false
+        related: false
+
+
+# Include the specific folders we want
+include:
+    - _pages
+    - _posts
 
 
 # Exclude from processing.
@@ -68,4 +99,5 @@ exclude:
    - Gemfile.lock
    - node_modules/
    - .vendor/
+   - README.md
 

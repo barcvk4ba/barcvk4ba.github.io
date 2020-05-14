@@ -1,11 +1,10 @@
 ---
-layout: page
 title: Contact
 permalink: /contact/
-navigation_weight: 50
+toc: true
 ---
 
-# Street Address.
+# Street Address
 
 ```
 Rochedale Scout Den
@@ -13,7 +12,7 @@ Rochedale Scout Den
 Queenland.
 ```
 
-# Postal Address.
+# Postal Address
 
 ```
 The Secretary
@@ -22,7 +21,7 @@ PO Box 6106
 Upper MtGravatt, 4122, Queensland
 ```
 
-# E-Mail Address.
+# E-Mail Address
 
 [vk4ba@qsl.net](mailto:vk4ba@qsl.net)
 

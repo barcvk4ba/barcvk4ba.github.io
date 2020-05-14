@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Nets
 permalink: /nets/
-navigation_weight: 10
+toc: true
 ---
 
 There are Three Weekly Evening Nets all starting at 8pm Monday, Wednesday and Sunday
