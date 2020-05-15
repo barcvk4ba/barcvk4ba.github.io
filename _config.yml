@@ -58,7 +58,7 @@ defaults:
         layout: single
         sidebar:
             nav: docs           # sidebar navigation list in _data/navigation.yml
-        author_profile: true
+        author_profile: false
         read_time: true
         comments: false
         share: false
@@ -94,12 +94,12 @@ include:
 # their entries' file path in the `include:` list.
 #
 exclude:
-   - .sass-cache/
-   - .jekyll-cache/
-   - gemfiles/
-   - Gemfile
-   - Gemfile.lock
-   - node_modules/
-   - .vendor/
-   - README.md
-
+    - .sass-cache/
+    - .jekyll-cache/
+    - gemfiles/
+    - Gemfile
+    - Gemfile.lock
+    - node_modules/
+    - .vendor/
+    - README.md
+    - serve.sh

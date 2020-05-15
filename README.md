@@ -20,5 +20,6 @@ We use:
 
 This is a WIP. will be updated shortly
 
-Ash. VK4ASH.
-2020-05-14
+Once setup, you can run jekyl locally, serving the content as you edit by running the
+`serve.sh` script in the root of this repo.
+

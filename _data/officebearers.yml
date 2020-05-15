@@ -1,0 +1,75 @@
+#
+# Define the office bearers.
+#
+# This list is used to put together a nice table in the office bearers page
+#
+# Format:
+# offices:
+#   office: Name of Office
+#   bearer: Name of office bearer, maybe omitted for vacant
+#   callsign: Callsign of office bearer, may be omitted if no call sign or bearer
+
+year: 2017/2018
+offices:
+    - office: President
+      bearer: Les Neilson
+      callsign: VK4FAEB
+
+    - office: Vice President
+
+    - office: Secretary
+
+    - office: Assistant Secretary
+
+    - office: Treasurer
+      bearer: Kevin Dibble
+      callsign: VK4ZR
+
+    - office: Librarian
+
+    - office: Webmaster
+      bearer: Ashley Roll
+      callsign: VK4ASH
+
+    - office: Providor
+
+    - office: Station Manager
+      bearer: Les Parker
+      callsign: VK4SO
+
+    - office: Repeater Officer
+      bearer: Kevin Dalton
+      callsign: VK4WA
+
+
+    - office: Repeater Manager
+      bearer: Jan Oksiuta
+      callsign: VK4EBP
+
+    - office: Project Co-ordinator
+      bearer: Les Neilson
+      callsign: VK4FAEB
+
+    - office: Awards and QSL Manager
+
+    - office: Publicity / Liason Officer
+      bearer: Les Neilsen
+      callsign: VK4FAEB
+
+    - office: WICEN
+
+    - office: Club Newsletter
+      bearer: Les Neilson
+      callsign: VK4FAEB
+
+    - office: Club Equipment Officer
+      bearer: Kevin Dibble
+      callsign: VK4ZR
+
+    - office: Accredited Examiners
+
+    - office: Accredited Learning Facilitator
+
+    - office: BARCfest Organiser
+      bearer: Committee
+
