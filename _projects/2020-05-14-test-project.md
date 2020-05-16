@@ -1,6 +1,6 @@
 ---
-title:  "Test Project"
-date:   2020-05-14 19:56:48 +1000
+title: Test Project
+date: 2020-05-14 19:56:48 +1000
 ---
 
 
