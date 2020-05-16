@@ -2,34 +2,43 @@
 # Main site top navigation bar
 #
 main:
-    - title: "About Us"
+    - title: About Us
       url: /about/
-      description: "More information about the Brisbane Amateur Radio Club"
+      description: More information about the Brisbane Amateur Radio Club
 
-    - title: "Contacts"
+    - title: Contacts
       url: /contact/
-      description: "How to contact us"
+      description: How to contact us
 
-    - title: "Nets"
+    - title: Nets
       url: /nets/
-      description: "Our Nets"
+      description: Our Nets
 
-    - title: "Repeaters"
+    - title: Repeaters
       url: /repeaters/
-      description: "Our Repeaters"
+      description: Our Repeaters
 
-    - title: "Where We Meet"
+    - title: Where We Meet
       url: /where/
-      description: "Where to find us and where we meet"
+      description: Where to find us and where we meet
 
 #
 # Left Sidebar Navigation
 #
 docs:
-    - title: "Club Details"
+    - title: Club Details
       children:
-          - title: "Consititution"
+          - title: Consititution
             url: /docs/constitution/
 
-          - title: "Office Bearers"
+          - title: Office Bearers
             url: /docs/office-bearers/
+
+    - title: Useful Stuff
+      children:
+          - title: Links
+            url: /docs/links/
+
+          - title: Software
+            url: /docs/software/
+

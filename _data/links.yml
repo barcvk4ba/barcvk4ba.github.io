@@ -1,0 +1,25 @@
+#
+# This data file contains the list of useful links
+#
+# Each category is named and then contains a list of 'url' and 'title'
+# Each category has keyname, then a 'name' to show.
+#
+
+- name: Test Section 1
+  description: This section contains some links...
+  links:
+    - url: http://www.wia.org.au
+      title: Wireless Institute of Australia
+
+    - url: http://www.arrl.org
+      title: Amateur Radio Relay League
+
+    - url: http://www.iaru.org
+      title: The International Amateur Radio Union
+
+- name: Section 2
+  description: This is some more link
+  links:
+    - url: http://www.acma.gov.au/Industry/Spectrum/Radiocomms-licensing/Apparatus-licences/amateur-broadcasting-licence-examinations-and-certification
+      title: Details about Amateur Operators Certificate of Proficiency
+
