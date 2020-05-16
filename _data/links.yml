@@ -1,25 +1,237 @@
 #
 # This data file contains the list of useful links
 #
-# Each category is named and then contains a list of 'url' and 'title'
-# Each category has keyname, then a 'name' to show.
-#
 
-- name: Test Section 1
-  description: This section contains some links...
+- name: General Amateur Radio Links
+  description: >
+      Australian and International Amateur Radio Organisations
   links:
     - url: http://www.wia.org.au
       title: Wireless Institute of Australia
 
     - url: http://www.arrl.org
-      title: Amateur Radio Relay League
+      title: Amateur Radio Relay League (USA)
 
     - url: http://www.iaru.org
       title: The International Amateur Radio Union
 
-- name: Section 2
-  description: This is some more link
+- name: Australian Communications and Media Authority
+  description: >
+      The ACMA administers radio spectrum licensing in Australia and so
+      manages the licensing of Amateur Radio.
   links:
-    - url: http://www.acma.gov.au/Industry/Spectrum/Radiocomms-licensing/Apparatus-licences/amateur-broadcasting-licence-examinations-and-certification
+    - url: https://www.acma.gov.au/licences/amateur-apparatus-licence
       title: Details about Amateur Operators Certificate of Proficiency
+
+    - url: https://www.acma.gov.au/register-radiocommunications-licences
+      title: Register of Radio Communications Licenses (Search)
+
+- name: Antenna Sites
+  links:
+    - url: https://archive.org/details/w4rnlantenna
+      title: Antenna Service and Education (on Archive.org)
+      detail: This is and excellent antenna site by W4RNL, a must see.
+
+    - url: http://calc.n6ach.com/quad.html
+      title: Quad Antenna
+      detail: Javascript Calculator
+
+- name: Callbooks
+  description: Helpful sites to look up other Amateur call signs
+  links:
+    - url: http://hamcall.net/call
+      title: Call Book
+
+    - url: http://www.qrz.com/
+      title: QRZ Call Sign Database
+
+- name: Contests
+  links:
+    - url: http://www.vkcc.com/
+      title: VK Contests
+
+- name: Club Stations
+  links:
+    - url: http://vk4qd.com/
+      title: Caboolture Amateur Radio Club
+
+    - url: http://vk4wip.org.au/
+      title: Ipswich and District Radio Club.
+
+    - url: http://www.southsidears.org.au/sars/
+      title: Southside Amateur Radio Society
+
+    - url: https://vk4wis.org/
+      title: Sunshine Coast Amateur Radio Club
+
+    - url: http://www.redclifferadioclub.org.au/
+      title: Redcliffe Radio Club
+
+    - url: http://sarc.org.au/
+      title: Summerland Amateur Radio Club
+
+    - url: http://www.gcars.com.au/home
+      title: Gold Coast Amateur Radio Society
+
+    - url: https://thetarcinc.weebly.com/
+      title: Townsville Amateur Radio Club
+
+    - url: http://www.gceginc.org.au/
+      title: Gympie Communications & Electronics Group
+
+    - url: http://www.qdg.org.au/
+      title: Queensland Digital Group
+
+    - url: http://www.ccarc.org.au
+      title: Central Coast Amateur Radio Club
+
+    - url: http://www.guam.net/pub/midxa/index.html
+      title: Mariana Islands DX Association Home Pages.
+
+    - url: http://www.emdrc.com.au
+      title: Eastern and Mountain District Radio Club
+
+    - url: http://www.slsrc.org
+      title: Suburban Radio Club.
+
+    - url: http://www.qcwa.org/qcwa.php
+      title: Quarter Century Wireless Association
+
+    - url: http://www.zl2ab.com/
+      title: New Plymouth Amateur Radio Club
+
+    - url: http://www.zl2ja.org.nz/
+      title: Wanganui Amateur Radio Society Inc.
+
+    - url: http://www.vk2bv.org/
+      title: Waverley Amateur Radio Club
+
+- name: Educational Sites
+  links:
+    - url: http://www.dxzone.com/cgi-bin/dir/jump2.cgi?ID=15805
+      title: A basic CW Operating Manual
+
+    - url: http://home.alphalink.com.au/%7Eparkerp/gateway.htm
+      title: Amateur radio beginner's articles
+      detail: Information esource for newcomers
+
+    - url: http://www.res.net.au
+      title: Radio & Electronics School
+      detail: Amateur Radio Theory Online
+
+    - url: http://www.arrl.org/what-is-ham-radio
+      title: Whatis Amateur Radio?
+      detail: An Explanation
+
+    - url: https://www.mhelpdesk.com/field-service-management-guide-telecommunications-timeline/
+      title: History of World communications as we know it
+      detail: Timeline of significant events
+
+- name: Magazines & Technical Information
+  links:
+    - url: http://www.arrl.org/shop/
+      title: ARRL Publications
+      detail: "The Internet's #1 Amateur Radio Community"
+
+- name: Digital & Packet Radio
+  links:
+    - url: http://www.afthd.tu-darmstadt.de/%7Eflexnet/
+      title: PC FlexNet
+      detail: "[times out?] Get on to packet with 3 components and a sound card. Excellent!"
+
+    - url: http://www.savin.org/gateways/
+      title: Packet Gateways
+      detail: Internet to Packet telnet links.
+
+    - url: http://f5vag.nerim.net/g4ide/
+      title: Peak Systems
+      detail: "[times out?] The home of G4IDE's WinPack packet radio software"
+
+    - url: http://www.sv2agw.com/ham/
+      title: SV2AGW
+      detail: Home of another excellent packet driver using your sound card
+
+    - url: http://www.freedv.org
+      title: FreeDV
+      detail: A free open-source digital voice mode
+
+- name: Personal Pages
+  links:
+    - url: http://www.qsl.net/vk4kdp
+      title: Dave Prince's Home Pages
+
+    - url: http://www.qsl.net/vk4kdp/bmrc.html
+      title: Military Radio
+      detail: Check out this collection!
+
+    - url: http://ac6v.com/
+      title: AC6V
+      detail: Amateur Radio and DX Reference Guide - Excellent!
+
+    - url: http://www.amateurradio.bz/
+      title: Amateur Radio Station KG0ZZ
+
+    - url: http://www.vkham.com
+      title: VKHAM
+
+- name: Homebrewing and Modifications
+  links:
+    - url: http://www.justradios.com/
+      title: Just Radios
+      detail: Schematic Diagrams for Canadian, USA and European radios.
+
+    - url: http://www.minikits.com.au/
+      title: Mini-Kits
+      detail: Transverters, amplifiers, transmitters etc... from 30Mhz up
+
+    - url: http://www.alphalink.com.au/%7Eparkerp/gateway.htm
+      title: Novice Notes Online
+      detail: information resource for newcomers
+
+    - url: http://oh3tr.ele.tut.fi/english/modifications.html
+      title: OH3TR
+      detail: Ham Radio Conversion Pages
+
+    - url: http://www.radiomods.co.nz/
+      title: Radiomods
+      detail: Amateur and CB Radio mods
+
+    - url: http://www.sm0vpo.com/
+      title: SM0VPO
+      detail: Harry's Home Brew Page
+
+    - url: http://www.mods.dk/
+      title: "The #1 Ham Radio Mods Page"
+
+    - url: http://www.vintagemanuals.com/
+      title: W7FG
+      detail: Vintage Manuals.
+
+- name: Satellites and Space
+  links:
+    - url: https://sites.google.com/site/amsataustralia/
+      title: AMSAT
+      detail: The Radio Amateur Satellite Corporation Australian site
+
+    - url: http://celestrak.com/software/dransom/stsplus.html
+      title: Dave Ransom Software Home Pages
+      detail: STS Orbit Plus
+
+    - url: http://www.setileague.org/
+      title: SETI
+      detail: The SETI League is a non-profit organization Searching for Extra-Terrestrial Intelligence.
+
+- name: Unsorted Links
+  links:
+    - url: http://www.arcompanion.com/
+      title: Amateur Radio Companion
+      detail: Companion CD-ROM
+
+    - url: http://www.qslpaper.com/
+      title: create paper QSL cards
+      detail: Create and order your printed QSL card
+
+    - url: http://dx.qsl.net/propagation/greyline.html
+      title: Terminator
+      detail: Real time Gray Line
 
