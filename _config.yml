@@ -14,7 +14,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: BARC VK4BA
-email: vk4ba@qls.net
+subtitle: Brisbane Amateur Radio Club
 description: >-
   The Brisbane Amateur Radio Club (BARC) promotes the hobby of
   Amateur (Ham) Radio and Electronics.
@@ -22,67 +22,111 @@ description: >-
   Our members come from all walks of life but share a common interest in radio
   communications and associated electronics and technology.
 
-
-
-baseurl: ""     # the subpath of your site, e.g. /blog
 url: ""         # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-github_username:  barcvk4ba
+baseurl: ""     # the subpath of your site, e.g. /blog
+
+repository: barcvk4ba/barcvk4ba.github.io
+
 #facebook_username: Brisbane-Amateur-Radio-Club-BARC-VK4BA-879007988845541
-
-
-# Build settings
-#theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.19.2"
-
-plugins:
-    - jekyll-feed
-    - jekyll-archive
-    - jekyll-include-cache
-
-# Configure home page post pagination
-paginate: 5
-paginate_path: /page:num/
-
+#email: vk4ba@qls.net
 
 # Timezone
 timezone: Australia/Brisbane
 
-# Estabilish defaults for Pages and Posts
+#
+# Define the list of links in the footer
+#
+footer:
+    links:
+      - label: Facebook
+        url: https://www.facebook.com/Brisbane-Amateur-Radio-Club-BARC-VK4BA-879007988845541
+        icon: fab fa-facebook
+      - label: GitHub
+        url: https://github.com/barcvk4ba
+        icon: fab fa-github
+      - label: vk4ba@qls.net
+        url: mailto:vk4ba@qls.net
+        icon: fas fa-envelope
+
+#
+# Build settings
+# Note: we have to use minimal-mistakes as a remote theme for GitHub Pages
+#
+remote_theme: "mmistakes/minimal-mistakes@4.19.2"
+minimal_mistakes_skin: "default" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
+#
+# Configure home page post pagination
+#
+paginate: 5
+paginate_path: /news/page:num/
+
+# Define our collections
+collections:
+    projects:
+        output: true
+        permalink: /:collection/:name
+    articles:
+        output: true
+        permalink: /:collection/:name
+
+
+#
+# Define the standard page layout that we can apply
+# using the `defaults` key below to posts, pages and
+# our various collections
+#
+default_layout: &layout
+    layout: single
+    header:
+        overlay_image: /assets/images/vk4ba.png
+        overlay_filter: "0.5"
+        show_overlay_excerpt: false
+    sidebar:
+        nav: leftnav           # sidebar navigation list in _data/navigation.yml
+    author_profile: false
+    read_time: true
+    comments: false
+    share: false
+    related: false
+
+#
+# Estabilish defaults for Pages and Posts and other Collections
+#
 defaults:
     # _posts
     - scope:
         path: ""
         type: posts
-      values:
-        layout: single
-        sidebar:
-            nav: docs           # sidebar navigation list in _data/navigation.yml
-        author_profile: false
-        read_time: true
-        comments: false
-        share: false
-        related: false
+      values: *layout
 
     # _pages
     - scope:
         path: ""
         type: pages
-      values:
-        layout: single
-        sidebar:
-            nav: docs           # sidebar navigation list in _data/navigation.yml
-        author_profile: false
-        read_time: true
-        comments: false
-        share: false
-        related: false
+      values: *layout
+
+    # _projects collection
+    - scope:
+        path: ""
+        type: projects
+      values: *layout
+
+    # _articles collection
+    - scope:
+        path: ""
+        type: articles
+      values: *layout
 
 
+#
 # Include the specific folders we want
+#
 include:
     - _pages
     - _posts
+    - _projects
+    - _articles
 
 
 # Exclude from processing.
@@ -101,5 +145,13 @@ exclude:
     - Gemfile.lock
     - node_modules/
     - .vendor/
+    - vendor/
     - README.md
     - serve.sh
+
+# List of plugins to run for the site
+plugins:
+    - jekyll-feed
+    - jekyll-paginate
+    - jekyll-include-cache
+

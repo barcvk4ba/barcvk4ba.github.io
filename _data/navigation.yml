@@ -6,7 +6,7 @@ main:
       url: /about/
       description: More information about the Brisbane Amateur Radio Club
 
-    - title: Contacts
+    - title: Contact Us
       url: /contact/
       description: How to contact us
 
@@ -25,16 +25,36 @@ main:
 #
 # Left Sidebar Navigation
 #
-docs:
+leftnav:
+    - title: Posts
+      children:
+          - title: News
+            url: /news
+
+          - title: Projects
+            url: /projects/
+
+          - title: Articles
+            url: /articles/
+
     - title: Club Details
       children:
+          - title: Nets
+            url: /nets/
+
+          - title: Repeaters
+            url: /repeaters/
+
           - title: Consititution
             url: /docs/constitution/
 
           - title: Office Bearers
             url: /docs/office-bearers/
 
-    - title: Useful Stuff
+          - title: Contact Us
+            url: /contact/
+
+    - title: Other
       children:
           - title: Links
             url: /docs/links/
