@@ -9,15 +9,17 @@
 #   bearer: Name of office bearer, maybe omitted for vacant
 #   callsign: Callsign of office bearer, may be omitted if no call sign or bearer
 
-year: 2017/2018
+year: 2019/2020
 offices:
     - office: President
       bearer: Les Neilson
-      callsign: VK4FAEB
+      callsign: VK4LEZ
 
     - office: Vice President
 
     - office: Secretary
+      bearer: Norm Bergen
+      callsign: VK4ANB
 
     - office: Assistant Secretary
 
@@ -32,8 +34,9 @@ offices:
       callsign: VK4ASH
 
     - office: Providor
+      bearer: Noel Fogarty
 
-    - office: Station Manager
+    - office: NET Manager
       bearer: Les Parker
       callsign: VK4SO
 
@@ -41,34 +44,37 @@ offices:
       bearer: Kevin Dalton
       callsign: VK4WA
 
-
     - office: Repeater Manager
       bearer: Jan Oksiuta
       callsign: VK4EBP
 
     - office: Project Co-ordinator
       bearer: Les Neilson
-      callsign: VK4FAEB
+      callsign: VK4LEZ
 
     - office: Awards and QSL Manager
 
     - office: Publicity / Liason Officer
       bearer: Les Neilsen
-      callsign: VK4FAEB
+      callsign: VK4LEZ
 
     - office: WICEN
 
     - office: Club Newsletter
       bearer: Les Neilson
-      callsign: VK4FAEB
+      callsign: VK4LEZ
 
     - office: Club Equipment Officer
       bearer: Kevin Dibble
       callsign: VK4ZR
 
     - office: Accredited Examiners
+      bearer: Doug Baker
+      callsign: VK4DMB
 
     - office: Accredited Learning Facilitator
+      bearer: Jan Oksiuta
+      callsign: VK4EBP
 
     - office: BARCfest Organiser
       bearer: Committee
