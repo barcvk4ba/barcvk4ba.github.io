@@ -16,8 +16,7 @@ related: false
 
 ### Welcome to BARC!
 
-This is a test web site, the real one is currently here:
-[http://www.barcvk4ba.com.au/](http://www.barcvk4ba.com.au/)
+Welcome to the Brisbane Amateur Radio Club website!
 
 ### COVID-19
 
