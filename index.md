@@ -18,12 +18,16 @@ related: false
 
 Welcome to the Brisbane Amateur Radio Club website!
 
-### COVID-19
+### Meeting Again at the Shack!
 
-All in-person gatherings for the club are currently suspended.
+As COVID-19 restrictions are further relaxed in Queensland, we are resuming our normal
+face-to-face meetings at the Rochedale Radio Shack.
 
-We are currently doing weekly video conferences on a Thursday evening at 8pm.
-Please contact us for details if you would like to join in!
+First meeting planned for
+[Saturday 27 June 2020 1:00PM]({% post_url 2020-06-23-saturday-meetings-returning %}).
+
+
+
 
 ### Current Propagation Data
 
