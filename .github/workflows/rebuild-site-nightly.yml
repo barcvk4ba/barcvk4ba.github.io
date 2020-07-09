@@ -1,14 +1,14 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Rebuild Site Content Nightly
+name: Nightly Rebuild
 
 # Schedule the action to occur at 00:05 AEST (+10:00). We have to adjust
 # the cron value for UTC as this is what GitHub runs.
 #
+#    - cron: "5 14 * * *"
 on:
   schedule:
-    - cron: "25 13 * * *"
-      #    - cron: "5 14 * * *"
+    - cron: "*/5 * * * *"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -17,6 +17,6 @@ jobs:
     steps:
       - name: Trigger GitHub pages rebuild
         run: |
-          curl --fail --request POST \
+          curl --request POST \
             --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
             --header "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}"
