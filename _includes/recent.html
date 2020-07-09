@@ -1,0 +1,19 @@
+{% assign latest_items = site.posts | concat: site.articles | concat: site.projects %}
+{% assign latest_items = latest_items | sort: "date" | reverse %}
+
+<table>
+    <thead>
+        <tr><th>Recent Updates</th></tr>
+    </thead>
+    <tbody>
+{% for p in latest_items limit:5 %}
+        <tr>
+            <td>
+                <a href="{{p.url}}"><strong>{{p.title}}</strong></a><br/>
+                {{p.excerpt}}
+            </td>
+        </tr>
+{% endfor %}
+    </tbody>
+</table>
+
