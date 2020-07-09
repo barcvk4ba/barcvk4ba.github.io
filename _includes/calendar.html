@@ -1,3 +1,19 @@
+{% comment %}
+    We will get GitHub Pages to re-render the site every night
+    and so we want to remove calendar entries that are for
+    previous days.
+
+    This is acutally tricky because it is not possible to compare dates
+    and "now" in liquid directly so we could do it in the event filter.
+
+    However the work around is to make a number (unix time) from "now"
+    and compare that to the same unix time number from each event as
+    we process it. If it is in the past, we don't show the event.
+
+    We also track the number rendered so we can show a "no events"
+    message if we ignored all the events.
+{% endcomment %}
+
 <table>
     <thead>
         <tr>
@@ -6,8 +22,13 @@
         </tr>
     </thead>
     <tbody>
-        {% assign events = site.data.calendar.events | sort: "date" %}
-        {% for e in events %}
+{% assign today = "now" | date: "%Y-%m-%d" | date: "%s" %}
+{% assign event_count = 0 %}
+{% assign events = site.data.calendar.events | sort: "date" %}
+{% for e in events %}
+    {% assign event_date = e.date | date: "%s" %}
+    {% if event_date >= today %}
+        {% assign event_count = event_count | plus: 1 %}
         <tr>
             <td>
                 <nobr>{{ e.date | date: "%a %d %b, %Y" }}</nobr>
@@ -18,8 +39,11 @@
                 {{ e.description | markdownify }}
             </td>
         </tr>
-        {% else %}
-        <tr><td colspan="2">No events planned, sorry</td></tr>
-        {% endfor %}
+    {% endif %}
+{% endfor %}
+
+{% if event_count == 0 %}
+        <tr><td colspan="2">No current events, sorry</td></tr>
+{% endif %}
     </tbody>
 </table>

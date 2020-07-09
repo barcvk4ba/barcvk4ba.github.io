@@ -5,14 +5,27 @@
 #
 # events:
 #   title: The title
-#   date: The date in YYYY-MM-DD format
+#   date: YYYY-MM-DD date
 #   time: The time of the entry
 #   location: Where is it?
 #   description: Some description of what is happening
 #
+# When we render this list in _includes/calendar.html, we do some processing
+# to skip any events from days that have passed.
+#
+# This allows us to have a rolling calendar when we have GitHub Pages re-render
+# the site each day. This will be configured using a GitHub Action on a
+# schedule.
+#
 
 
 events:
+    - title: Weekly Teleconference
+      date: 2020-07-09
+      time: 8:00pm - 9:00pm
+      location: Zoom Video Conference
+      description: Please contact us for connection details. All welcome.
+
     - title: Social Meeting
       date: 2020-07-11
       time: 1:00pm - 3:00pm
