@@ -5,7 +5,7 @@
 #
 # events:
 #   title: The title
-#   date: The date in a consistent format. Suggest Thu 9 July 2020
+#   date: The date in YYYY-MM-DD format
 #   time: The time of the entry
 #   location: Where is it?
 #   description: Some description of what is happening
@@ -13,22 +13,31 @@
 
 
 events:
+    - title: Social Meeting
+      date: 2020-07-11
+      time: 1:00pm - 3:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: |
+          Regular social gathering. Social distancing rules are in force.
+
+          Lee will continue his presentation on digital repeater modes with a talk on D-Star.
+
     - title: Weekly Teleconference
-      date: Thu 9 July 2020
+      date: 2020-07-16
+      time: 8:00pm - 9:00pm
+      location: Zoom Video Conference
+      description: Please contact us for connection details. All welcome.
+
+    - title: Weekly Teleconference
+      date: 2020-07-23
       time: 8:00pm - 9:00pm
       location: Zoom Video Conference
       description: Please contact us for connection details. All welcome.
 
     - title: Social Meeting
-      date: Sat 11 July 2020
+      date: 2020-07-25
       time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. Social distancing rules are in force.
-
-    - title: Weekly Teleconference
-      date: Thu 16 July 2020
-      time: 8:00pm - 9:00pm
-      location: Zoom Video Conference
-      description: Please contact us for connection details. All welcome.
 
 

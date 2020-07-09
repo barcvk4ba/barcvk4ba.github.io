@@ -6,14 +6,20 @@
         </tr>
     </thead>
     <tbody>
-        {%- for e in site.data.calendar.events -%}
+        {% assign events = site.data.calendar.events | sort: "date" %}
+        {% for e in events %}
         <tr>
-            <td>{{ e.date }}<br/>{{ e.time }}</td>
-            <td >
-                <p><strong>{{ e.title }}</strong><br/><small>{{ e.location }}</small></p>
-                <p>{{ e.description }}</p>
+            <td>
+                <nobr>{{ e.date | date: "%a %d %b, %Y" }}</nobr>
+                <br/>{{ e.time }}
+            </td>
+            <td>
+                <strong>{{ e.title }}</strong><br/><small>{{ e.location }}</small>
+                {{ e.description | markdownify }}
             </td>
         </tr>
-        {%- endfor -%}
+        {% else %}
+        <tr><td colspan="2">No events planned, sorry</td></tr>
+        {% endfor %}
     </tbody>
 </table>
