@@ -35,4 +35,3 @@ face-to-face meetings at the Rochedale Radio Shack.
     <img src="http://www.hamqsl.com/solar101vhfpic.php?muf=drwn">
 </a>
 
-
