@@ -1,3 +1,5 @@
+![Nightly Rebuild](https://github.com/barcvk4ba/barcvk4ba.github.io/workflows/Nightly%20Rebuild/badge.svg)
+
 # Brisbane Amateur Radio Club
 
 This is a web site for BARC.
