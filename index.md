@@ -27,6 +27,9 @@ face-to-face meetings at the Rochedale Radio Shack.
 ### Club Calendar
 {% include calendar.html %}
 
+### Recent Updates
+{% include recent.md %}
+
 
 ### Current Propagation Data
 
