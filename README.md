@@ -43,6 +43,9 @@ we haven't tried.
    bundle install
    ```
 
+As you are editing the site, be sure to run `bundle update` regularly to keep
+Jekyll and the GitHub tools up to date.
+
 ## Building / Serving the Site Locally
 
 Once set up, you can run jekyl locally, serving the content as you edit by running the

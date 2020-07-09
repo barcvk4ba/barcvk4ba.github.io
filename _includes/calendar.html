@@ -1,0 +1,19 @@
+<table>
+    <thead>
+        <tr>
+            <th>When</th>
+            <th>What's On</th>
+        </tr>
+    </thead>
+    <tbody>
+        {%- for e in site.data.calendar.events -%}
+        <tr>
+            <td>{{ e.date }}<br/>{{ e.time }}</td>
+            <td >
+                <p><strong>{{ e.title }}</strong><br/><small>{{ e.location }}</small></p>
+                <p>{{ e.description }}</p>
+            </td>
+        </tr>
+        {%- endfor -%}
+    </tbody>
+</table>

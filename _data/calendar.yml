@@ -1,0 +1,34 @@
+#
+# Define the calendar.
+#
+# Format:
+#
+# events:
+#   title: The title
+#   date: The date in a consistent format. Suggest Thu 9 July 2020
+#   time: The time of the entry
+#   location: Where is it?
+#   description: Some description of what is happening
+#
+
+
+events:
+    - title: Weekly Teleconference
+      date: Thu 9 July 2020
+      time: 8:00pm - 9:00pm
+      location: Zoom Video Conference
+      description: Please contact us for connection details. All welcome.
+
+    - title: Social Meeting
+      date: Sat 11 July 2020
+      time: 1:00pm - 3:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. Social distancing rules are in force.
+
+    - title: Weekly Teleconference
+      date: Thu 16 July 2020
+      time: 8:00pm - 9:00pm
+      location: Zoom Video Conference
+      description: Please contact us for connection details. All welcome.
+
+
