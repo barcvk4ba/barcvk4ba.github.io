@@ -26,21 +26,13 @@ main:
 # Left Sidebar Navigation
 #
 leftnav:
-    - title: Posts
-      children:
-          - title: News
-            url: /news
-
-          - title: Projects
-            url: /projects/
-
-          - title: Articles
-            url: /articles/
-
     - title: Club Details
       children:
           - title: Nets
             url: /nets/
+
+          - title: Calendar
+            url: /calendar/
 
           - title: Repeaters
             url: /repeaters/
@@ -53,6 +45,20 @@ leftnav:
 
           - title: Contact Us
             url: /contact/
+
+          - title: Memebership Form (pdf)
+            url: /assets/forms/BARC-Membership-form.pdf
+
+    - title: Posts
+      children:
+          - title: News
+            url: /news
+
+          - title: Projects
+            url: /projects/
+
+          - title: Articles
+            url: /articles/
 
     - title: Other
       children:

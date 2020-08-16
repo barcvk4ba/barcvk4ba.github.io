@@ -20,57 +20,6 @@
 
 
 events:
-    - title: Social Meeting
-      date: 2020-07-11
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: |
-          Regular social gathering. Social distancing rules are in force.
-
-          Lee will continue his presentation on digital repeater modes with a talk on D-Star.
-
-    - title: Weekly Teleconference
-      date: 2020-07-16
-      time: 8:00pm - 9:00pm
-      location: Zoom Video Conference
-      description: Please contact us for connection details. All welcome.
-
-    - title: Weekly Teleconference
-      date: 2020-07-23
-      time: 8:00pm - 9:00pm
-      location: Zoom Video Conference
-      description: Please contact us for connection details. All welcome.
-
-    - title: Social Meeting
-      date: 2020-07-25
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. Social distancing rules are in force.
-
-    - title: Weekly Teleconference
-      date: 2020-07-30
-      time: 8:00pm - 9:00pm
-      location: Zoom Video Conference
-      description: Please contact us for connection details. All welcome.
-
-    - title: Weekly Teleconference
-      date: 2020-08-06
-      time: 8:00pm - 9:00pm
-      location: Zoom Video Conference
-      description: Please contact us for connection details. All welcome.
-
-    - title: Social Meeting
-      date: 2020-08-08
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. Social distancing rules are in force.
-
-    - title: Weekly Teleconference
-      date: 2020-08-13
-      time: 8:00pm - 9:00pm
-      location: Zoom Video Conference
-      description: Please contact us for connection details. All welcome.
-
     - title: Weekly Teleconference
       date: 2020-08-20
       time: 8:00pm - 9:00pm
@@ -100,7 +49,7 @@ events:
       time: 8:00pm - 9:00pm
       location: Zoom Video Conference
       description: Please contact us for connection details. All welcome.
-      
+
     - title: Social Meeting
       date: 2020-09-12
       time: 1:00pm - 3:00pm
