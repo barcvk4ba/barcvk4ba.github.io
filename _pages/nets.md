@@ -10,6 +10,12 @@ run by the Brisbane Amateur Radio Club members.
 
 All licensed amateurs are welcome to join us.
 
+# DMR Monday evening Net
+
+A Digital net is run on each Monday night at 7:00PM onwards.
+
+Using a local repeater the talk group is TG3809
+
 # HF Monday evening Net
 
 An HF net is run on each Monday night at 8:00PM onwards.
