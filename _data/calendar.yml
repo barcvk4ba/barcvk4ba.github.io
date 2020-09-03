@@ -21,6 +21,24 @@
 
 events:
     - title: Weekly Teleconference
+      date: 2020-08-20
+      time: 8:00pm - 9:00pm
+      location: Zoom Video Conference
+      description: Please contact us for connection details. All welcome.
+
+    - title: Social Meeting
+      date: 2020-08-22
+      time: 1:00pm - 3:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. Social distancing rules are in force.
+
+    - title: Weekly Teleconference
+      date: 2020-08-27
+      time: 8:00pm - 9:00pm
+      location: Zoom Video Conference
+      description: Please contact us for connection details. All welcome.
+
+    - title: Weekly Teleconference
       date: 2020-09-03
       time: 8:00pm - 9:00pm
       location: Zoom Video Conference
@@ -38,17 +56,18 @@ events:
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. Social distancing rules are in force.
 
-    - title: Weekly Teleconference
+- title: Weekly Teleconference
       date: 2020-09-17
       time: 8:00pm - 9:00pm
       location: Zoom Video Conference
       description: Please contact us for connection details. All welcome.
 
-    - title: Weekly Teleconference
+- title: Weekly Teleconference
       date: 2020-09-24
       time: 8:00pm - 9:00pm
       location: Zoom Video Conference
       description: Please contact us for connection details. All welcome.
+
 
     - title: Social Meeting
       date: 2020-09-26
@@ -56,7 +75,7 @@ events:
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. Social distancing rules are in force.
 
-    - title: Weekly Teleconference
+  - title: Weekly Teleconference
       date: 2020-10-01
       time: 8:00pm - 9:00pm
       location: Zoom Video Conference
@@ -73,8 +92,8 @@ events:
       time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. Social distancing rules are in force.
-
-    - title: Weekly Teleconference
+      
+  - title: Weekly Teleconference
       date: 2020-10-15
       time: 8:00pm - 9:00pm
       location: Zoom Video Conference
@@ -90,9 +109,9 @@ events:
       date: 2020-10-24
       time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. Social distancing rules are in force.
-
-    - title: Weekly Teleconference
+      description: Regular social gathering. Social distancing rules are in force.    
+      
+      - title: Weekly Teleconference
       date: 2020-10-29
       time: 8:00pm - 9:00pm
       location: Zoom Video Conference
@@ -104,19 +123,19 @@ events:
       location: Zoom Video Conference
       description: Please contact us for connection details. All welcome.
 
-    - title: Weekly Teleconference
-      date: 2020-11-12
+- title: Weekly Teleconference
+      date: 2020-10-12
       time: 8:00pm - 9:00pm
       location: Zoom Video Conference
       description: Please contact us for connection details. All welcome.
-
+      
     - title: Social Meeting
       date: 2020-11-14
       time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. Social distancing rules are in force.
-
-    - title: Weekly Teleconference
+      
+      - title: Weekly Teleconference
       date: 2020-11-19
       time: 8:00pm - 9:00pm
       location: Zoom Video Conference
@@ -129,10 +148,7 @@ events:
       description: Please contact us for connection details. All welcome.
 
     - title: Social Meeting
-      date: 2020-11-28
+      date: 2020-11-18
       time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. Social distancing rules are in force.
-
-
-
