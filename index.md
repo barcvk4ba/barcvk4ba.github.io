@@ -27,7 +27,11 @@ face-to-face meetings at the Rochedale Radio Shack.
 
 
 ### Club Calendar
-{% include calendar.html %}
+
+Next 5 events, for more events please see the [Club Calendar](/calendar/).
+
+{% include calendar.html limit="5" %}
+
 
 ### Current Propagation Data
 
