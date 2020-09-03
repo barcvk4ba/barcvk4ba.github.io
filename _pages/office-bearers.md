@@ -36,5 +36,5 @@ permalink: /docs/office-bearers/
 </table>
 
 ## Notes
-Committee positions are elected at the Annual General Meeting which is held in May of each year.
+Committee positions are elected at the Annual General Meeting which is held in May or June of each year.
 
