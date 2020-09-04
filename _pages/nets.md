@@ -12,9 +12,9 @@ All licensed amateurs are welcome to join us.
 
 # DMR Monday evening Net
 
-A Digital net is run on each Monday night at 7:00PM onwards.
+A Digital net is run on each Monday night at 7:00PM onwards to 8pm.
 
-Using a local repeater the talk group is TG3809
+Using a local repeater the talk group is TG "5"
 
 # HF Monday evening Net
 
