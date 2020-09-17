@@ -16,6 +16,7 @@ author_profile: false
 
 * Repeaters [http://rpt.vkdmr.com/](http://rpt.vkdmr.com/){:target="_blank"}
 * Hot Spots [http://hot.vkdmr.com/](http://hot.vkdmr.com/){:target="_blank"}
+* [VK4DRM Repeater Map](https://www.google.com/maps/d/viewer?mid=1pN0ls-uQ6GIixGanunLe0HETqo8&ll=-27.331080754756925%2C153.09384449189344&z=9){:target="_blank"}
 
 ## DMR Articles
 
