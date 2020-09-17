@@ -14,8 +14,8 @@ author_profile: false
 
 ## Links
 
-* Repeaters http://rpt.vkdmr.com/
-* Hot Spots http://hot.vkdmr.com/
+* Repeaters [http://rpt.vkdmr.com/](http://rpt.vkdmr.com/)
+* Hot Spots [http://hot.vkdmr.com/](http://hot.vkdmr.com/)
 
 ## DMR Articles
 
