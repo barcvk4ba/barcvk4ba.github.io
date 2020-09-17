@@ -52,7 +52,7 @@ footer:
 # Build settings
 # Note: we have to use minimal-mistakes as a remote theme for GitHub Pages
 #
-remote_theme: "mmistakes/minimal-mistakes@4.19.2"
+remote_theme: "mmistakes/minimal-mistakes@4.20.2"
 minimal_mistakes_skin: "default" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 #

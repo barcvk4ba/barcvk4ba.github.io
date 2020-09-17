@@ -60,6 +60,9 @@ leftnav:
           - title: Articles
             url: /articles/
 
+          - title: DMR Info
+            url: /articles/dmr/
+
     - title: Other
       children:
           - title: Links
