@@ -12,7 +12,12 @@ author_profile: false
 #
 ---
 
-A collection of articles related to DMR
+## Links
+
+* Repeaters http://rpt.vkdmr.com/
+* Hot Spots http://hot.vkdmr.com/
+
+## DMR Articles
 
 {%
 assign entries = site.articles
