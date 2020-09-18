@@ -22,10 +22,7 @@ the information will still apply to other types of radios.
 For club members to all be on the same level of operation we have provided a code
 plug/config file to get started with and you will need your own radio id to make it go
 
-
-
 ## Retevis RT3s Club Plug
-
 
 **Curent File:** [BARC_ver1.1.0.rdt](/assets/dmr/BARC_ver1.1.0.rdt)
 <br/>
@@ -36,7 +33,6 @@ _Intro Screen Lines_.
 (We suggest you use your call sign in the intro lines so everyone can identify
 who owns any random radio left floating around the club!)
 {: .notice--info}
-
 
 
 The BARC plug is based on seven local Sth East Qld repeaters with the usual talk
@@ -59,7 +55,14 @@ Enjoy your radio.
 
 Les Neilson VK4LEZ, BARC President.
 
-## A collection of articles related to DMR
+## Links
+
+* Repeaters [http://rpt.vkdmr.com/](http://rpt.vkdmr.com/){:target="_blank"}
+* Hot Spots [http://hot.vkdmr.com/](http://hot.vkdmr.com/){:target="_blank"}
+* [VK4DRM Repeater Map](https://www.google.com/maps/d/viewer?mid=1pN0ls-uQ6GIixGanunLe0HETqo8&ll=-27.331080754756925%2C153.09384449189344&z=9){:target="_blank"}
+* VK DMR [https://vkdmr.com/](https://vkdmr.com/){:target="_blank"}
+
+## DMR Articles
 
 {%
 assign entries = site.articles
