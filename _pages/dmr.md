@@ -36,7 +36,7 @@ who owns any random radio left floating around the club!)
 
 
 The BARC plug is based on seven local Sth East Qld repeaters with the usual talk
-groups attached with some analogue 70cm/2m repeaters etc.
+groups attached with additional analogue 70cm/2m repeaters etc.
 
 A long push of buttons above or below the PTT will change the repeater zone
 and then twist of the top knob to tune into popular talk groups make it an easy
