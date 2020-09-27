@@ -49,3 +49,5 @@ So enjoy at your leisure:
 Renato VK4TNT has also supplied a document on how 5G technology works which was
 distributed to club members by email.
 
+Les Neilson. VK4LEZ<br/>
+BARC President
