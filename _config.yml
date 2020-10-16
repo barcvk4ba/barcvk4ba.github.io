@@ -55,6 +55,12 @@ footer:
 remote_theme: "mmistakes/minimal-mistakes@4.20.2"
 minimal_mistakes_skin: "default" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
+# header scripts for google analytics
+head_scripts:
+    - https://www.googletagmanager.com/gtag/js?id=UA-180722310-1
+    - /assets/js/google-analytics.js
+
+
 #
 # Configure home page post pagination
 #
