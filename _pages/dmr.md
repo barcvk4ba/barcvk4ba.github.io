@@ -1,7 +1,7 @@
 ---
 title: DMR Information
 permalink: /articles/dmr/
-toc: false
+toc: true
 read_time: false
 author_profile: false
 #
@@ -54,6 +54,14 @@ but then you own it and this one will remain should you ever need it again.
 Enjoy your radio.
 
 Les Neilson VK4LEZ, BARC President.
+
+## VKDMR Hotspot Setup
+
+Michael Lanagan (VK4MWL) has pulled together a great guide to DMR hotspots and
+how to set yours up.
+
+**Curent File:** [VKDMR_Hotspot_Setup_v1.0.pdf](/assets/dmr/VKDMR_Hotspot_Setup_v1.0.pdf)
+{: .notice--info}
 
 ## Links
 
