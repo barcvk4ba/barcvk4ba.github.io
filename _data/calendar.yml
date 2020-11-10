@@ -105,11 +105,10 @@ events:
       description: Regular social gathering. Social distancing rules are in force.
 
 - title: Weekly Teleconference
+
       date: 2020-12-03
       date: 2020-12-10
       date: 2020-12-17
-      date: 2020-12-24
-      date: 2020-12-31
       time: 8:00pm - 9:00pm
       location: Zoom Video Conference
       description: Please contact us for connection details. All welcome.
