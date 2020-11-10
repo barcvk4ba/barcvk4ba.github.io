@@ -28,13 +28,19 @@
     </thead>
     <tbody>
 {% assign today = "now" | date: "%Y-%m-%d" | date: "%s" %}
+{% assign month = "_" %}
 {% assign event_count = 0 %}
 {% assign max_count = include.limit | default: 1000 | plus: 0 %}
 {% assign events = site.data.calendar.events | sort: "date" %}
 {% for e in events %}
     {% assign event_date = e.date | date: "%s" %}
+    {% assign event_month = e.date | date: "%B" %}
     {% if event_date >= today and event_count < max_count  %}
         {% assign event_count = event_count | plus: 1 %}
+        {% if month != event_month %}
+            {% assign month = event_month %}
+            <tr><th colspan="2" class="notice--info"><h4>{{ month }}</h4></th></tr>
+        {% endif %}
         <tr>
             <td>
                 <nobr>{{ e.date | date: "%a %d %b, %Y" }}</nobr>
