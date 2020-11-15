@@ -20,9 +20,10 @@ Using a local repeater the talk group is TG "5"
 
 An HF net is run on each Monday night at 8:00PM onwards.
 
-Frequency is **29.100MHz** and the modulation mode is FM
+New Frequency is **3.640MHz** and the modulation mode is LSB or SSB
 
-This net is run by Les VK4SO from Wishart.
+This net is run by members who will use VK4RMC 70cm repeater as a secondary communication Channel to set everyone up
+
 
 Note that vertically polarised antennas are being used.
 
@@ -35,6 +36,12 @@ A net is held on UHF on Wednesday evenings from 8:00PM onwards on the club repea
 The signal is frequency modulated at **439.95MHz** with negative offset.
 
 That is to say you should transmit on 434.95MHZ and receive on 439.95MHz.
+
+# UHF Friday Evening Net
+
+A net is held on UHF on Fridayday evenings from 8:00PM onwards on the new club repeater.
+
+RX 439.975  TX 434.975  Tone 91.5
 
 # 6M Evening Net
 
