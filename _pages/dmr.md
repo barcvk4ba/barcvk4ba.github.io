@@ -84,3 +84,4 @@ assign entries = site.articles
   {%- endunless -%}
 {%- endfor -%}
 
+It's your hobby so get active and turn your radio on
