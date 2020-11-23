@@ -52,3 +52,5 @@ goodwill among those interested in the science of electronics and amateur radio,
 
 Current membership fees are $35.00 per year due by 1st July every year and encourage to pay before
 30 September. Membership renewals after this date incurs a $5.00 late charge making a total fee of $40.00
+
+Remember this is your hobby get active and turn your radio on
