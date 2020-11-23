@@ -12,12 +12,12 @@ the Rochedale Scout Hall in 20 Rochedale Road, Rochedale, servicing the Greater 
 
 ## 70cm
 
-Our 70cm repeater operates at the frequencies below. Please forward all signal reports to Kevin VK4ZR
+Our New 70cm repeater operates from Mt Cootha at the frequencies below. Andrew VK4QF has kindly donated the repeaters operational abilities to BARC for club use.  While andrew will continue to maintain and service the repeater into the future.  (Andrew is the man behind many 2m and 70cm repeaters in Qld.  He designed and installed the 2m linked repeater system – 6 by 2m repeaters at Springbrook, Cootha, Ipswich, Toowoomba, Bunya Mountains and Warwick.  These are all linked together and provide tremendous coverage over SE Qld)
 
-* Output Frequency: 439.950 MHz
-* Input Frequency: 434.950 MHz (standard -5MHz offset)
+* Output Frequency: 439.975 MHz
+* Input Frequency: 434.475 MHz (standard -5MHz offset)
 * Mode: Frequency Modulation
-* No CTCSS Tone
+* 91.5 CTCSS Tone
 
 ## 2m
 
