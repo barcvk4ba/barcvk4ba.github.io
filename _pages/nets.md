@@ -4,7 +4,7 @@ permalink: /nets/
 toc: true
 ---
 
-There are Three Weekly Evening Nets all starting at 8pm Monday, Wednesday and Sunday
+There are Four Weekly Evening Nets all starting at 8pm Monday, Wednesday, Friday and Sunday
 and three week-day morning nets, starting at 8am Monday, Wednesday and Friday
 run by the Brisbane Amateur Radio Club members.
 
@@ -33,9 +33,7 @@ Directional, horizontally polarised antennas may not be suitable.
 
 A net is held on UHF on Wednesday evenings from 8:00PM onwards on the club repeater.
 
-The signal is frequency modulated at **439.95MHz** with negative offset.
-
-That is to say you should transmit on 434.95MHZ and receive on 439.95MHz.
+RX 439.975  TX 434.975  Tone 91.5
 
 # UHF Friday Evening Net
 
