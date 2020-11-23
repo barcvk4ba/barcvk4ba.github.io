@@ -13,7 +13,9 @@ Currently under construction will be our 70cm DMR repeater built for Qld
 
 ## 70cm
 
-Our New 70cm repeater VK4RMC operates from Mt Cootha at the frequencies below. Andrew VK4QF has kindly donated the repeaters operational capabilities to BARC for club use.  Andrew will continue to maintain and service the repeater into the future.  (Who is Andrew you might ask?  Well he is the man behind many 2m and 70cm repeaters in Qld.  He designed and installed the 2m linked repeater system – 6 by 2m repeaters at Springbrook, Cootha, Ipswich, Toowoomba, Bunya Mountains and Warwick.  These are all linked together and provide tremendous coverage over SE Qld)
+Our New 70cm repeater VK4RMC operates from Mt Cootha at the frequencies below. Andrew VK4QF has kindly donated the repeaters operational capabilities to BARC for club use.  Andrew will continue to maintain and service the repeater into the future.  
+
+Who is Andrew you might ask?  Well he is the man behind many 2m and 70cm repeaters in Qld.  He designed and installed the 2m linked repeater system – 6 by 2m repeaters at Springbrook, Cootha, Ipswich, Toowoomba, Bunya Mountains and Warwick.  These are all linked together and provide tremendous coverage over SE Qld
 
 * Output Frequency: 439.975 MHz
 * Input Frequency: 434.975 MHz (standard -5MHz offset)
