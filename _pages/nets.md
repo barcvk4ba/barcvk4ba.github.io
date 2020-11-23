@@ -59,3 +59,5 @@ and the ability to trigger the repeater from their home or mobile station
 Set your radio to transmit on **147.325MHz** and receive on **147.925MHz**
 
 No CTCSS tone is required.
+
+Remember it's your hobby so get active and turn your radio on
