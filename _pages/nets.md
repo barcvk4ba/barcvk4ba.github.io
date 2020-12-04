@@ -12,15 +12,15 @@ All licensed amateurs are welcome to join us.
 
 # DMR Monday evening Net
 
-A Digital net is run on each Monday night at 7:00PM onwards to 8pm.
+A Digital net is run on VK-DMR each Monday night at 7:00PM onwards to 8pm.
 
-Using a local repeater the talk group is TG "5"
+Using your Hopspot or your local repeater the talk group is TG "5"
 
 # HF Monday evening Net
 
 An HF net is run on each Monday night at 8:00PM onwards.
 
-New Frequency is **3.640MHz** and the modulation mode is LSB or SSB
+New Frequency is **3.630MHz** and the modulation mode is LSB or SSB
 
 This net is run by members who will use VK4RMC 70cm repeater as a secondary communication Channel to set everyone up
 
@@ -31,13 +31,13 @@ Directional, horizontally polarised antennas may not be suitable.
 
 # UHF Wednesday Evening Net
 
-A net is held on UHF on Wednesday evenings from 8:00PM onwards on the club repeater.
+A net is held on UHF on Wednesday evenings from 8:00PM onwards on the Mount Cootha repeater.
 
 RX 439.975  TX 434.975  Tone 91.5
 
 # UHF Friday Evening Net
 
-A net is held on UHF on Fridayday evenings from 8:00PM onwards on the new club repeater.
+A net is held on UHF on Fridayday evenings from 8:00PM onwards on the Mount Cootha repeater.
 
 RX 439.975  TX 434.975  Tone 91.5
 
@@ -49,7 +49,7 @@ Simplex Frequency on **53.525MHz**
 
 # VHF Morning Nets
 
-Morning nets are also held on the club UHF repeater.and all visitors are welcome
+Morning nets are also held on the club VHF repeater.and all visitors are welcome
 
 Our nets are held on Monday, Wednesday and Friday mornings at 8:00AM.
 
