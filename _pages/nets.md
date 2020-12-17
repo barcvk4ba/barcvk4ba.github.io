@@ -33,19 +33,21 @@ Directional, horizontally polarised antennas may not be suitable.
 
 A net is held on UHF on Wednesday evenings from 8:00PM onwards on the Mount Cootha repeater.
 
-RX 439.975  TX 434.975  Tone 91.5
+Adjust your radio to RX 439.975  TX 434.975  Tone 91.5
 
 # UHF Friday Evening Net
 
 A net is held on UHF on Fridayday evenings from 8:00PM onwards on the Mount Cootha repeater.
 
-RX 439.975  TX 434.975  Tone 91.5
+Adjust your radio to RX 439.975  TX 434.975  Tone 91.5
 
 # 6M Evening Net
 
 An HF net is run on each Sunday night at 8:00PM onwards.
 
 Simplex Frequency on **53.525MHz**
+
+Vertical Polarised Antennas
 
 # VHF Morning Nets
 
