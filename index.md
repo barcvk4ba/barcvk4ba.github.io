@@ -28,6 +28,9 @@ face-to-face meetings at the Rochedale Radio Shack.
 
 ### Club Calendar
 
+Each Thrusday evening at 8pm we have a Zoom call. Everyone is welcome, so
+contact us and we will happily send you the link.
+
 Next 5 events, for more events please see the [Club Calendar](/calendar/).
 
 {% include calendar.html limit="5" %}
