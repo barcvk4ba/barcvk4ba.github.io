@@ -31,8 +31,8 @@ Newsletter items may be sent to.
 
 ```
 The Editor - QSP
-C/-PO Box6106
-Upper MtGravatt, 4122, Queensland
+22/62-66 Springwood Road
+Rochedale South, 4123, Queensland
 ```
 
 Or by E-mail to [vk4ba@qsl.net](mailto:vk4ba@qsl.net)
