@@ -17,8 +17,8 @@ Queenland.
 ```
 The Secretary
 Brisbane Amateur Radio Club.
-PO Box 6106
-Upper MtGravatt, 4122, Queensland
+22/62-66 Springwood Road
+Rochedale South, 4123, Queensland
 ```
 
 # E-Mail Address
