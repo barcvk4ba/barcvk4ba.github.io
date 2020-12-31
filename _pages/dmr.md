@@ -60,7 +60,7 @@ Les Neilson VK4LEZ, BARC President.
 Michael Lanagan (VK4MWL) has pulled together a great guide to DMR hotspots and
 how to set yours up.
 
-**Curent File:** [VKDMR_Hotspot_Setup_v1.1.pdf](/assets/dmr/VKDMR_Hotspot_Setup_v1.1.pdf)
+**Curent File:** [VKDMR_Hotspot_Setup_v1.3.pdf](/assets/dmr/VKDMR_Hotspot_Setup_v1.3.pdf)
 {: .notice--info}
 
 ## Links
