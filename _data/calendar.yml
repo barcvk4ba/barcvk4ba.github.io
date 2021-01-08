@@ -22,9 +22,22 @@
 events:
     - title: Social Meeting
       date: 2021-01-09
+      time: POSTPONED
+      location: POSTPONED
+      description: |
+          **POSTPONED until Jan 16**<br/>
+          This meeting has been postponed due to the Greater Brisbane area COVID lockdown
+          {: .notice--danger}
+
+    - title: Social Meeting
+      date: 2021-01-16
       time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+      description: |
+          Meeting held over from Jan 9 due to lockdown.
+          {: .notice--danger}
+
+          Regular social gathering. All are welcome.
 
     - title: Social Meeting
       date: 2021-01-23
