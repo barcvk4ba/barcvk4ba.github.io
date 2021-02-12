@@ -28,6 +28,7 @@ offices:
       callsign: VK4GLM
 
     - office: Librarian
+      bearer: Jan Osuita
 
     - office: Webmaster
       bearer: Ashley Roll
@@ -38,7 +39,7 @@ offices:
       callsign: VK4FAFG
 
     - office: NET Manager
-      bearer: Les Parker
+      bearer: Various
       callsign: VK4SO
 
     - office: Repeater Officer
@@ -46,7 +47,7 @@ offices:
       callsign: VK4LAH
 
     - office: Repeater Manager
-      bearer: Jan Oksiuta
+      bearer: Leigh Hall
       callsign: VK4EBP
 
     - office: Project Co-ordinator
