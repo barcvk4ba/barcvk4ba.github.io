@@ -4,7 +4,7 @@ permalink: /nets/
 toc: true
 ---
 
-There are Four Weekly Evening Nets all starting at 8pm Monday, Wednesday, Friday and Sunday
+There are Five Weekly Evening Nets two on Monday DMR 7pm & 8pm, Wednesday, Friday and Sunday
 and three week-day morning nets, starting at 8am Monday, Wednesday and Friday
 run by the Brisbane Amateur Radio Club members.
 
