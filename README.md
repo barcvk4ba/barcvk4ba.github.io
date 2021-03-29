@@ -42,6 +42,7 @@ we haven't tried.
    tools to build and run the site locally
    ```
    cd ~/Git/barcvk4ba.github.io
+   bundle config set --local path '.vendor/bundle'
    bundle install
    ```
 
