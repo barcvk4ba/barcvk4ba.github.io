@@ -25,9 +25,9 @@ New Frequency is **3.630MHz** and the modulation mode is LSB or SSB
 This net is run by members who will use VK4RMC 70cm repeater as a secondary communication Channel to set everyone up
 
 
-Note that vertically polarised antennas are being used.
+Note that horizontally  polarised antennas are being used.
 
-Directional, horizontally polarised antennas may not be suitable.
+Directional, vertically polarised antennas may not be suitable.
 
 # UHF Wednesday Evening Net
 
