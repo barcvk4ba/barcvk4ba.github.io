@@ -6,6 +6,7 @@ name: Nightly Rebuild
 # the cron value for UTC as this is what GitHub runs.
 #
 on:
+  workflow_dispatch
   push:
       branches:
           - new
@@ -30,6 +31,6 @@ jobs:
     # Standard usage
     - uses:  helaili/jekyll-action@v2
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.REBUILD_TOKEN }}
         target_branch: 'gh-pages-new'
 
