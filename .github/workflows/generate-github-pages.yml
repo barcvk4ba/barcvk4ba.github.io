@@ -6,7 +6,6 @@ name: Nightly Rebuild
 # the cron value for UTC as this is what GitHub runs.
 #
 on:
-  workflow_dispatch
   push:
       branches:
           - new
