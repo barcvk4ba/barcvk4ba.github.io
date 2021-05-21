@@ -7,10 +7,10 @@ name: Nightly Rebuild (gh-pages)
 #
 on:
   push:
-      branches:
-          - new
-#  schedule:
-#    - cron: "5 14 * * *"
+    branches:
+      - master
+  schedule:
+    - cron: "5 14 * * *"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -31,5 +31,5 @@ jobs:
     - uses:  helaili/jekyll-action@v2
       with:
         token: ${{ secrets.REBUILD_TOKEN }}
-        target_branch: 'gh-pages-new'
+        target_branch: 'gh-pages'
 
