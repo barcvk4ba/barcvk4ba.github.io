@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Nightly Rebuild
+name: Nightly Rebuild (gh-pages)
 
 # Schedule the action to occur at 00:05 AEST (+10:00). We have to adjust
 # the cron value for UTC as this is what GitHub runs.
