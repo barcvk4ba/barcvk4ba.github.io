@@ -44,12 +44,12 @@ offices:
       callsign: VK4SO
 
     - office: Repeater Officer
-      bearer: Leigh Hall
-      callsign: VK4LAH
+      bearer: Vacant
+      callsign: 
 
     - office: Repeater Manager
-      bearer: Leigh Hall
-      callsign: VKLAH
+      bearer: Vacant
+      callsign:
 
     - office: Project Co-ordinator
       bearer: Les Neilson
