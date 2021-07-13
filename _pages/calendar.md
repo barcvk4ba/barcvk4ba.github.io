@@ -11,7 +11,7 @@ toc: false
 
 #### Weekly Zoom Teleconference
 
-Each Thrusday evening at 8pm we have a Zoom call. Everyone is welcome, so
+Each Thursday evening at 8pm we have a Zoom call. Everyone is welcome, so
 contact us and we will happily send you the link.
 
 ### Club Meetings and Events
