@@ -33,7 +33,7 @@ Directional, vertically polarised antennas may not be suitable.
 
 A net is held on UHF on Wednesday evenings from 8:00PM onwards on the Mount Cootha repeater.
 
-Adjust your radio to RX 439.975  TX 434.975  Tone 91.5
+Adjust your radio to RX 439.975  TX 434.975  Tone 91.5 or access Echolink VK4BA-R
 
 # UHF Friday Evening Net
 
@@ -58,7 +58,7 @@ Our nets are held on Monday, Wednesday and Friday mornings at 8:00AM.
 It is now operating on our 2 metre repeater to assist members to test out their radios
 and the ability to trigger the repeater from their home or mobile station
 
-Set your radio to transmit on **147.325MHz** and receive on **147.925MHz**
+Set your radio to transmit on **147.325MHz** and receive on **147.925MHz** or access Echolink and select VK4BA-L
 
 No CTCSS tone is required.
 
