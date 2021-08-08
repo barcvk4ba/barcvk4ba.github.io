@@ -36,7 +36,7 @@ Our 2 Metre Repeater operates at the frequencies below.
 
 ## Parrot Repeater (recorder)
 
-A parrot repeater 145.225MHz with 3 minute record time has been sent up at Rochedale early October 2017
+A parrot repeater 145.225MHz FM with 3 minute record time has been sent up at Rochedale early October 2017
 
 You can use this repeater to test your radios on and compare the difference between them and/or understand how that radio sounds to other listeners
 
