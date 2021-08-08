@@ -45,7 +45,7 @@ Adjust your radio to RX 439.975  TX 434.975  Tone 91.5
 
 An HF net is run on each Sunday night at 8:00PM onwards.
 
-Simplex Frequency on **53.525MHz**
+Simplex Frequency on **FM** **53.525MHz**
 
 Vertical Polarised Antennas
 
