@@ -19,10 +19,10 @@ radios to make our way into this Network.
 Our information on this page will be based on these radios specifically but most of
 the information will still apply to other types of radios.
 
-For club members to all be on the same level of operation we have provided a code
-plug/config file to get started with and you will need your own radio id to make it go
+https://vkdmr.com/programming-your-radio/ To program your own code plug from scratch you will need to understand a few basic principles that are explained on this website
 
-https://vkdmr.com/programming-your-radio/ to program you own code plug you need to understand a few basic principles
+For club members to all be on the same level of operation we have provided a code
+plug/config file to get started with and you will need your own radio id to make it go see this website https://www.radioid.net/#!
 
 ## Retevis RT3s Club Plug
 
