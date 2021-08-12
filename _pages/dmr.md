@@ -22,6 +22,8 @@ the information will still apply to other types of radios.
 For club members to all be on the same level of operation we have provided a code
 plug/config file to get started with and you will need your own radio id to make it go
 
+https://vkdmr.com/programming-your-radio/ to program you own code plug you need to understand a few basic principles
+
 ## Retevis RT3s Club Plug
 
 **Curent File:** [BARC_ver1.4.0.rdt](/assets/dmr/BARC_ver1.4.0.rdt)
