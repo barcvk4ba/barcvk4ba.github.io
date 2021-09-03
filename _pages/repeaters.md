@@ -46,4 +46,13 @@ Operational details - The parrot repeater utilises narrow deviation FM
 * If using with a wide band transmission, talk softly and it will be okay.
 * If you still have distortion you could adjust the deviation control on a wide band transmission until it sounds okay.
 
+## WSPR Beacon
+
+BARC has joined the International WSPR Beacon Project to establish the largest HF Beacon Network around the globe which is currently in progress
+
+WSPR Beacon Transmitter has been installed at Rochedale Qld with LPFs for the 80,40,30,20,17,15,12 and 10m Bands
+
+Why use a WSPR Beacon?
+Behind the curtains the project is starting to discuss ways to analyze the data derived from all the global WSPR Beacons. Seems like we can get some BigData Analytics cracks aboard to correlate Solar indices and Ionospheric Key figures with the Beacon Data with the help of Machine Learning algorithms. Eventually leading to better HF propagation forecasting.
+
 Remember it's your hobby so get active and turn your radio on
