@@ -39,84 +39,7 @@ events:
 
           Regular social gathering. All are welcome.
 
-    - title: Social Meeting
-      date: 2021-01-23
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2021-02-13
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2021-02-27
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2021-03-13
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2021-03-27
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2021-04-10
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2021-04-24
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2021-05-08
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2021-05-22
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2021-06-12
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2021-06-26
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2021-07-10
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2021-07-24
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
+    
     - title: Social Meeting
       date: 2021-08-14
       time: 1:00pm - 3:00pm
@@ -130,10 +53,13 @@ events:
       description: Regular social gathering. All are welcome.
 
     - title: Social Meeting
-      date: 2021-09-11
+      date: 2021-09-12
       time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+      description: |
+        **NOTE**: DAY CHANGED TO SUNDAY
+        Due to the Scout Hall being in use all day, we are moving the BARC meeting to the Sunday for this week only.
+        Regular social gathering. All are welcome.
 
     - title: Social Meeting
       date: 2021-09-25
