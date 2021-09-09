@@ -9,6 +9,10 @@ toc: false
 
 ### Club Calendar
 
+ATTENTION THIS WEEKEND ONLY SATURDAY 11TH CLUB MEETING IS POSTPONED TO SUNDAY 12TH DUE TO HALL PREVIOUS BOOKING
+ALL PRESENTATIONS WILL OCCUR FROM 1PM ONWARDS SO BE THERE ON SUNDAY
+
+
 #### Weekly Zoom Teleconference
 
 Each Thursday evening at 8pm we have a Zoom call. Everyone is welcome, so
