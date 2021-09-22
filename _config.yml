@@ -57,7 +57,7 @@ minimal_mistakes_skin: "default" # "default" "air", "aqua", "contrast", "dark", 
 
 # Analytics
 analytics:
-  provider: "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id: "UA-180722310-1" # Replace this with your ID, or delete
     anonymize_ip: false
