@@ -71,22 +71,35 @@ Congratulations on being a Net Controller
 Ensure you have a pen and paper for your log to write call order and other relevant information , have water, food or anything else you need to have during the entire net and don't forget to have fun
 
     Announce the beginning of the net is about to commence
+    
     Announce your name and call sign and that you are the Net controller for this BARC net
+    
     Announce you are ready to receive callers and that they should state their call sign and name
+    
     Write in your log of all of the call signs until silence is heard
+    
     Then rehearse your list to the callers to affirm all callers and the net order
+    
     You can then ask for any more callers to identify before you start the net
+    
     Start the net with the first caller and proceed through the callers to the end of the first over
+    
     you can now pause to ask for any more callers
+    
     add any callers to the list announcing it to the group
+    
     continue on through the overs as above until the end of the net
+    
     Announce the final over and invite closing comments
+    
     Thank everyone for their participation and officially close the net to the group
 
 **Running Notes**
 
-    listen for questions asked from individuals and remind them when you can
-    jump in and rehearse or reinstate the order of callers when needed
+    listen for questions asked from individuals and remind them when you can jump in and rehearse or reinstate the order of callers when needed
+    
     catch all late net callers at your turn, and slot them in the end of the net over
+    
     remind callers keep a space between each other so the repeater resets when necessary
+    
     Have fun it's a learning experience that will be good for you
