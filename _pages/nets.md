@@ -83,7 +83,11 @@ Ensure you have a pen and paper for your log to write call order and other relev
 
 Running Notes
 listen for questions asked from individuals and remind them when you can
+
 jump in and rehearse or reinstate the order of callers when needed
+
 catch all late net callers and slot them in the end of the net over
+
 remind callers keep a space between each other so the repeater resets when necessary
+
 Have fun it's a learning experience that will be good for you
