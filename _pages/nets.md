@@ -64,42 +64,26 @@ No CTCSS tone is required.
 
 Remember it's your hobby so get active and turn your radio on
 
-# Net Controllers Notes - Les Neilson VK4LEZ
+**Congratulations on being a Net Controller**
 
-I would like to encourage you for any additions or editions to the following text that I have just completed, 
-Congratulations on being a Net Controller
 Ensure you have a pen and paper for your log to write call order and other relevant information , have water, food or anything else you need to have during the entire net and don't forget to have fun
 
-    Announce the beginning of the net is about to commence
-    
-    Announce your name and call sign and that you are the Net controller for this BARC net
-    
-    Announce you are ready to receive callers and that they should state their call sign and name
-    
-    Write in your log of all of the call signs until silence is heard
-    
-    Then rehearse your list to the callers to affirm all callers and the net order
-    
-    You can then ask for any more callers to identify before you start the net
-    
-    Start the net with the first caller and proceed through the callers to the end of the first over
-    
-    you can now pause to ask for any more callers
-    
-    add any callers to the list announcing it to the group
-    
-    continue on through the overs as above until the end of the net
-    
-    Announce the final over and invite closing comments
-    
-    Thank everyone for their participation and officially close the net to the group
+1. Announce the beginning of the net is about to commence
+2. Announce your name and call sign and that you are the Net controller for this BARC net
+3. Announce you are ready to receive callers and that they should state their call sign and name
+4. Write in your log of all of the call signs until silence is heard
+5. Then rehearse your list to the callers to affirm all callers and the net order 
+6. You can then ask for any more callers to identify before you start the net
+7. Start the net with the first caller and proceed through the callers to the end of the first over
+8. you can now pause to ask for any more callers
+9. add any callers to the list announcing it to the group
+10. continue on through the overs as above until the end of the net
+11. Announce the final over and invite closing comments
+12. Thank everyone for their participation and officially close the net to the group
 
-**Running Notes**
-
-    listen for questions asked from individuals and remind them when you can jump in and rehearse or reinstate the order of callers when needed
-    
-    catch all late net callers at your turn, and slot them in the end of the net over
-    
-    remind callers keep a space between each other so the repeater resets when necessary
-    
-    Have fun it's a learning experience that will be good for you
+Running Notes
+listen for questions asked from individuals and remind them when you can
+jump in and rehearse or reinstate the order of callers when needed
+catch all late net callers and slot them in the end of the net over
+remind callers keep a space between each other so the repeater resets when necessary
+Have fun it's a learning experience that will be good for you
