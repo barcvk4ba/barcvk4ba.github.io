@@ -69,7 +69,7 @@ Remember it's your hobby so get active and turn your radio on
 Ensure you have a pen and paper for your log to write call order and other relevant information , have water, food or anything else you need to have during the entire net and don't forget to have fun
 
 1. Announce the beginning of the net is about to commence
-2. Announce your name and call sign and that you are the Net controller for this BARC net
+2. Announce your name and call sign and that you are the Net controller for this BARC net and doubts should be relayed back to you for comment and or remedy
 3. Announce you are ready to receive callers and that they should state their call sign and name
 4. Write in your log of all of the call signs until silence is heard
 5. Then rehearse your list to the callers to affirm all callers and the net order 
@@ -77,13 +77,13 @@ Ensure you have a pen and paper for your log to write call order and other relev
 7. Start the net with the first caller and proceed through the callers to the end of the first over
 8. you can now pause to ask for any more callers
 9. add any callers to the list announcing it to the group
-10. continue on through the overs as above until the end of the net
+10. continue on through the overs as above until the end of the net pausing at your over to request any more callers
 11. Announce the final over and invite closing comments
 12. Thank everyone for their participation and officially close the net to the group
 
-Running Notes
+**Running Notes**
 
-listen for specific questions asked from individuals and remind them when you can
+listen for specific questions asked from individuals and remind the group  when you can
 
 jump in and rehearse or reinstate the order of callers when needed
 
