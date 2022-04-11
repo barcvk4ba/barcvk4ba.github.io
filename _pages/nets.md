@@ -20,7 +20,11 @@ Using your Hopspot or your local repeater the talk group is TG "5"
 
 An HF net is run on each Monday night at 8:00PM onwards.
 
-New Frequency is **3.630MHz** and the modulation mode is LSB or SSB
+We have two Frequencies rotating as follows
+
+Rirst is **3.630MHz** and the modulation mode is LSB or SSB run on 1st and 3rd & 5th when needed Mondays 
+
+Second is **28.450** on 2nd and Fourth Mondays
 
 This net is run by members who will use VK4RMC 70cm repeater as a secondary communication Channel to set everyone up
 
