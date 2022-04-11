@@ -16,6 +16,10 @@ A Digital net is run on VK-DMR each Monday night at 7:00PM onwards to 8pm.
 
 Using your Hopspot or your local repeater the talk group is TG "5"
 
+Our New Motorola repeater is now fully installed and operating
+
+set your radio to listen to 438.725 and transmit on 431.725 to work the repeater correctly
+
 # HF Monday evening Net
 
 An HF net is run on each Monday night at 8:00PM onwards.
