@@ -10,6 +10,11 @@ Our Rochedale repeaters are operated by the Brisbane Amateur Radio Club and loca
 the Rochedale Scout Hall in 20 Rochedale Road, Rochedale, servicing the Greater Brisbane area.
 Currently under construction will be our 70cm DMR repeater built for Qld
 
+## DMR Repeater
+
+Our New Motorola repeater operates from Rochedale To set your radio to operate successfully on the following frequencies  
+
+to :isten on RX 438.725 and to Transmit on TX 431.725
 
 ## 70cm
 
