@@ -37,7 +37,7 @@ Our 2 Metre Repeater operates at the frequencies below.
 
 * Output Frequency: 147.925 MHz
 * Input Frequency: 147.325 MHz
-* No CTCSS tone is required to access the repeater at the test site.
+* CTCSS tone of 91.5 is required to access the repeater. 
 
 ## Parrot Repeater (recorder)
 
