@@ -24,13 +24,9 @@ set your radio to listen to 438.725 and transmit on 431.725 to work the repeater
 
 An HF net is run on each Monday night at 8:00PM onwards.
 
-We have two Frequencies rotating as follows
+First up on the night will start with **3.630MHz** and the modulation mode is LSB or SSB  
 
-First is **3.630MHz** and the modulation mode is LSB or SSB run on 1st and 3rd & 5th when needed Mondays 
-
-Second is **28.450** on 2nd and Fourth Mondays
-
-This net is run by members who will use VK4RMC 70cm repeater as a secondary communication Channel to set everyone up
+This net is run by members who will use VK4RMC 70cm repeater RX 439.975  TX 434.975  Tone 91.5 as a secondary communication Channel to set everyone up if there is any change to the frequency
 
 
 Note that horizontally  polarised antennas are being used.
@@ -63,12 +59,9 @@ Morning nets are also held on the club VHF repeater.and all visitors are welcome
 
 Our nets are held on Monday, Wednesday and Friday mornings at 8:00AM.
 
-It is now operating on our 2 metre repeater to assist members to test out their radios
-and the ability to trigger the repeater from their home or mobile station
-
 Set your radio to transmit on **147.325MHz** and receive on **147.925MHz** or access Echolink and select VK4BA-L
 
-No CTCSS tone is required.
+CTCSS tone of 91.5 is required.
 
 Remember it's your hobby so get active and turn your radio on
 
