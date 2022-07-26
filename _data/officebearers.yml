@@ -9,7 +9,7 @@
 #   bearer: Name of office bearer, maybe omitted for vacant
 #   callsign: Callsign of office bearer, may be omitted if no call sign or bearer
 
-year: 2019/2020
+year: 2022/2023
 offices:
     - office: President
       bearer: Michael Lanagan
