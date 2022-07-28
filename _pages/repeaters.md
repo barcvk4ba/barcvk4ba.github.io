@@ -14,8 +14,8 @@ Currently under construction will be our 70cm DMR repeater built for Qld
 
 Our New Motorola repeater operates from Rochedale. Set your radio on the following frequencies:
 
-   * Listen on RX 438.725
-   * Transmit on TX 431.725
+   * Listen on 438.725 MHz
+   * Transmit on 431.725 MHz
 
 ## 70cm
 
@@ -61,4 +61,4 @@ WSPR Beacon Transmitter has been installed at Rochedale Qld with LPFs for the 80
 Why use a WSPR Beacon?
 Behind the curtains the project is starting to discuss ways to analyze the data derived from all the global WSPR Beacons. Seems like we can get some BigData Analytics cracks aboard to correlate Solar indices and Ionospheric Key figures with the Beacon Data with the help of Machine Learning algorithms. Eventually leading to better HF propagation forecasting.
 
-Remember it's your hobby so get active and turn your radio on
+Remember it's your hobby so get active and turn your radio on.
