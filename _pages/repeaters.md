@@ -12,13 +12,14 @@ Currently under construction will be our 70cm DMR repeater built for Qld
 
 ## DMR Repeater
 
-Our New Motorola repeater operates from Rochedale To set your radio to operate successfully on the following frequencies  
+Our New Motorola repeater operates from Rochedale. Set your radio on the following frequencies:
 
-to listen on RX 438.725 and to transmit on TX 431.725
+   * Listen on RX 438.725
+   * Tansmit on TX 431.725
 
 ## 70cm
 
-Our New 70cm repeater VK4RMC operates from Mt Cootha at the frequencies below. Our repeaters can be accessed via EchoLink if you currently have access so please try it out
+Our New 70cm repeater VK4RMC operates from Mt Cootha at the frequencies below. Our repeaters can be accessed via EchoLink if you currently have access so please try it out.
 
 Andrew VK4QF has kindly donated the repeaters operational capabilities to BARC for club use.  Andrew will continue to maintain and service the repeater into the future.  
 
