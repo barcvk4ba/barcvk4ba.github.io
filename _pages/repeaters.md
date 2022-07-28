@@ -15,7 +15,7 @@ Currently under construction will be our 70cm DMR repeater built for Qld
 Our New Motorola repeater operates from Rochedale. Set your radio on the following frequencies:
 
    * Listen on RX 438.725
-   * Tansmit on TX 431.725
+   * Transmit on TX 431.725
 
 ## 70cm
 
