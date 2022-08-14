@@ -21,114 +21,6 @@
 
 events:
     - title: Social Meeting
-      date: 2021-11-13
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2021-11-27
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2021-12-11
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-01-15
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-01-29
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-02-12
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-02-26
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-03-12
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-03-26
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-04-09
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-04-23
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-05-14
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-05-28
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-06-11
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-06-25
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-07-09
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-07-23
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-08-13
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
       date: 2022-08-27
       time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
@@ -151,6 +43,12 @@ events:
       time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
+
+    - title: Jamborree On The Air
+      date: 2022-10-16
+      time: TBC
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: The world’s largest digital and radio Scout event promoting friendship and global citizenship.
 
     - title: Social Meeting
       date: 2022-10-22
@@ -175,6 +73,44 @@ events:
       time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
+
+    - title: Social Meeting
+      date: 2023-01-14
+      time: 1:00pm - 3:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. All are welcome.
+
+    - title: Social Meeting
+      date: 2023-01-28
+      time: 1:00pm - 3:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. All are welcome.
+
+    - title: Social Meeting
+      date: 2023-02-11
+      time: 1:00pm - 3:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. All are welcome.
+
+    - title: Social Meeting
+      date: 2023-02-25
+      time: 1:00pm - 3:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. All are welcome.
+
+    - title: Social Meeting
+      date: 2023-03-11
+      time: 1:00pm - 3:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. All are welcome.
+
+    - title: Social Meeting
+      date: 2023-03-25
+      time: 1:00pm - 3:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. All are welcome.
+
+
 
 
 
