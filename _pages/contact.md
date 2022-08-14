@@ -23,7 +23,7 @@ Rochedale South, 4123, Queensland
 
 # E-Mail Address
 
-[vk4ba@qsl.net](mailto:vk4ba@qsl.net)
+[contact@barcvk4ba.com.au](mailto:contact@barcvk4ba.com.au)
 
 # Newsletter
 
@@ -35,10 +35,7 @@ The Editor - QSP
 Rochedale South, 4123, Queensland
 ```
 
-Or by E-mail to [vk4ba@qsl.net](mailto:vk4ba@qsl.net)
-
-Deadline for new submissions is 5pm on the Monday prior to the 2nd Friday of the month.
-
+Or by E-mail to [contact@barcvk4ba.com.au](mailto:contact@barcvk4ba.com.au)
 
 # Payments
 
