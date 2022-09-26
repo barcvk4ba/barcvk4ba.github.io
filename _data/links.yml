@@ -237,10 +237,10 @@
       title: Amateur Radio Companion
       detail: Companion CD-ROM
 
-    - url: http://www.qslpaper.com/
-      title: create paper QSL cards
-      detail: Create and order your printed QSL card
-
+ #   - url: http://www.qslpaper.com/
+ #     title: create paper QSL cards
+ #     detail: Create and order your printed QSL card
+#
     - url: http://dx.qsl.net/propagation/greyline.html
       title: Terminator
       detail: Real time Gray Line
