@@ -21,32 +21,14 @@
 
 events:
     - title: Social Meeting
-      date: 2022-08-27
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-09-10
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2022-09-24
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
       date: 2022-10-08
       time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Jamborree On The Air
-      date: 2022-10-16
-      time: TBC
+      date: 2022-10-15
+      time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: The world’s largest digital and radio Scout event promoting friendship and global citizenship.
 
