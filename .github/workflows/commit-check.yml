@@ -1,0 +1,31 @@
+name: CI Verification Build
+
+# Only run on a push to a commit on branches that are not the main/master or the gh-pages
+# branch to avoid collision with the actual realease process.
+on:
+  push:
+    branches-ignore:
+      - master
+      - main
+      - gh-pages
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build-github-pages:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    # Use GitHub Actions' cache to shorten build times and decrease load on servers
+    - uses: actions/cache@v2
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+
+    # Build the site only to verify correctness before merging
+    - uses:  helaili/jekyll-action@master
+      with:
+        build_only: True
+
