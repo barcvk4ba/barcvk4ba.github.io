@@ -28,9 +28,9 @@ plug/config file to get started with and you will need your own radio id to make
 
 ## Retevis RT3s Club Plug
 
-**Curent File:** [BARC_ver1.6.0.rdt](/assets/dmr/BARC_ver1.7.0.rdt)
+**Curent File:** [BARC_ver1.7.0.rdt](/assets/dmr/BARC_ver1.7.0.rdt)
 <br/>
-**Updated:** 2023-02-10
+**Updated:** 2023-02-19
 <br/>
 <br/>
 Please ensure you set your _**Radio ID**_, _**Radio Name**_, and customise your
