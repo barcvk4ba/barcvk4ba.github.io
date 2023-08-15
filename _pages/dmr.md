@@ -60,8 +60,6 @@ but then you own it and this one will remain should you ever need it again.
 
 Enjoy your radio.
 
-Les Neilson VK4LEZ, BARC President.
-
 ## VKDMR Hotspot Setup
 
 Michael Lanagan (VK4MWL) has pulled together a great guide to DMR hotspots and
@@ -74,7 +72,6 @@ how to set yours up.
 
 * Repeaters [http://rpt.vkdmr.com/](http://rpt.vkdmr.com/){:target="_blank"}
 * Hot Spots [http://hot.vkdmr.com/](http://hot.vkdmr.com/){:target="_blank"}
-* [VK4DRM Repeater Map](https://www.google.com/maps/d/viewer?mid=1pN0ls-uQ6GIixGanunLe0HETqo8&ll=-27.331080754756925%2C153.09384449189344&z=9){:target="_blank"}
 * VK DMR [https://vkdmr.com/](https://vkdmr.com/){:target="_blank"}
 
 ## DMR Articles
