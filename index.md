@@ -18,7 +18,7 @@ related: false
 
 Welcome to the Brisbane Amateur Radio Club website!
 
-{% include recent.html %}
+{% include recent.html weeksold="26" limit="5" %}
 
 ### Club Calendar
 
