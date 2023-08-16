@@ -13,11 +13,17 @@
     We also track the number rendered so we can show a "no events"
     message if we ignored all the events.
 
-    There is an optional parameter for the include to limit the max
-    number of entries to show.
+    There are optional parameter to the template:
 
-    include.limit - default 1000 (essentially all)
+      include.limit - default 1000 (essentially all) - max items to show
+
+    Notes: The plus: 0 filters convert strings to numbers
 {% endcomment %}
+
+{% assign today = "now" | date: "%Y-%m-%d" | date: "%s" | plus: 0 %}
+{% assign month = "_" %}
+{% assign item_count = include.limit | default: 1000 | plus: 0 %}
+{% assign events = site.data.calendar.events | sort: "date" %}
 
 <table>
     <thead>
@@ -27,16 +33,10 @@
         </tr>
     </thead>
     <tbody>
-{% assign today = "now" | date: "%Y-%m-%d" | date: "%s" %}
-{% assign month = "_" %}
-{% assign event_count = 0 %}
-{% assign max_count = include.limit | default: 1000 | plus: 0 %}
-{% assign events = site.data.calendar.events | sort: "date" %}
 {% for e in events %}
-    {% assign event_date = e.date | date: "%s" %}
+    {% assign event_date = e.date | date: "%s" | plus: 0 %}
     {% assign event_month = e.date | date: "%B" %}
-    {% if event_date >= today and event_count < max_count  %}
-        {% assign event_count = event_count | plus: 1 %}
+    {% if event_date >= today %}
         {% if month != event_month %}
             {% assign month = event_month %}
             <tr><th colspan="2" class="notice--info"><h4>{{ month }}</h4></th></tr>
@@ -51,6 +51,10 @@
                 {{ e.description | markdownify }}
             </td>
         </tr>
+        {% assign item_count = item_count | minus: 1 %}
+        {% if item_count <= 0 %}
+            {% break %}
+        {% endif %}
     {% endif %}
 {% endfor %}
 

@@ -1,18 +1,49 @@
+{% comment %}
+    We wish to remove news that is older than ~6 months.
+    This is a bit tricky as we have to use dates as seconds since epoc
+    (which is explained more in calendar.html).
+
+    Assume we are dealing with 26 weeks rather than months which makes the calcualtion
+    a lot easier.
+
+    There are optional parameters to the template:
+
+      include.limit - default 10 - max items to show
+      include.weeksold - default 26 - max age of items to show
+
+
+    Notes: The plus: 0 filters convert strings to numbers
+{% endcomment %}
+
+{% assign max_weeks = include.weeksold | default: 26 | plus: 0 %}
+{% assign today = "now" | date: "%Y-%m-%d" | date: "%s" %}
+{% assign max_age_seconds = max_weeks | times: 7 | times: 24 | times: 60 | times: 60 %}
+{% assign earilest_date = today | minus: max_age_seconds %}
+
 {% assign latest_items = site.posts | concat: site.articles | concat: site.projects %}
 {% assign latest_items = latest_items | sort: "date" | reverse %}
+
+{% assign item_count = include.limit | default: 10 | plus: 0 %}
 
 <table>
     <thead>
         <tr><th>Recent Updates</th></tr>
     </thead>
     <tbody>
-{% for p in latest_items limit:5 %}
+{% for p in latest_items %}
+    {% assign item_date = p.date | date: "%s" | plus: 0 %}
+    {% if item_date >= earilest_date %}
         <tr>
             <td>
                 <a href="{{p.url}}"><strong>{{p.title}}</strong></a><br/>
                 {{p.excerpt}}
             </td>
         </tr>
+        {% assign item_count = item_count | minus: 1 %}
+        {% if item_count <= 0 %}
+            {% break %}
+        {% endif %}
+    {% endif %}
 {% endfor %}
     </tbody>
 </table>
