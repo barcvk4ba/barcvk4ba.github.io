@@ -4,92 +4,81 @@ permalink: /nets/
 toc: true
 ---
 
-There are Five Weekly Evening Nets two on Monday DMR 7pm & 8pm, Wednesday, Friday and Sunday
-and three week-day morning nets, starting at 8am Monday, Wednesday and Friday
-run by the Brisbane Amateur Radio Club members.
+There are five weekly evening nets run by the Brisbane Amateur Radio Club members: two on Monday, Wednesday, Friday and Sunday and three morning nets, starting at 8am Monday, Wednesday and Friday.
 
 All licensed amateurs are welcome to join us.
 
-# DMR Monday evening Net
+# DMR Monday Evening Net
 
-A Digital net is run on Free DMR each Monday night at 7:00PM onwards to 8pm.
+The digital net is run on FreeDMR each Monday night at 7:00PM onwards.
 
-Using your Hopspot or your local repeater the talk group is TG "5050"
+Using your hotspot or your local repeater the talk group is **TG 5050**.
 
-Our New Motorola repeater is now fully installed and operating
+Our Motorola repeater is now fully installed and operating: set your radio to **RX438.725MHz** and **TX431.725MHz**.
 
-Set your radio to listen to 438.725 and transmit on 431.725 to work the repeater correctly
+# HF Monday Evening Net
 
-# HF Monday evening Net
+The HF net is run each Monday night at 8:00PM onwards.
 
-An HF net is run on each Monday night at 8:00PM onwards.
+First up on the night will start with **3.630MHz** and the modulation mode is LSB or SSB.
 
-First up on the night will start with **3.630MHz** and the modulation mode is LSB or SSB  
-
-This net is run by members who will use VK4RMC 70cm repeater RX 439.975  TX 434.975  Tone 91.5 as a secondary communication Channel to set everyone up if there is any change to the frequency
+This net is run by members who will use VK4RMC 70cm repeater (RX 439.975MHz, TX 434.975MHz, tone 91.5) as a secondary communication channel to set everyone up if there is any change to the frequency.
 
 
-Note that horizontally  polarised antennas are being used.
-
-Directional, vertically polarised antennas may not be suitable.
+Note that horizontally polarised antennas are being used. Directional, vertically polarised antennas may not be suitable.
 
 # UHF Wednesday Evening Net
 
-A net is held on UHF on Wednesday evenings from 8:00PM onwards on the Mount Cootha repeater.
+The net is held on UHF on Wednesday evenings from 8:00PM onwards on the Mount Coot-tha repeater.
 
-Adjust your radio to RX 439.975  TX 434.975  Tone 91.5 or access Echolink VK4BA-R
+Adjust your radio to **RX 439.975MHz**, **TX 434.975MHz** and tone 91.5 or access Echolink VK4BA-R.
 
 # UHF Friday Evening Net
 
-A net is held on UHF on Fridayday evenings from 8:00PM onwards on the Mount Cootha repeater.
+The net is held on UHF on Fridayday evenings from 8:00PM onwards on the Mount Coot-tha repeater.
 
-Adjust your radio to RX 439.975  TX 434.975  Tone 91.5
+Adjust your radio to **RX 439.975MHz**, **TX 434.975MHz** and tone 91.5
 
-# 6M Evening Net
+# 6m Sunday Evening Net
 
-An HF net is run on each Sunday night at 8:00PM onwards.
+The HF net is run each Sunday night from 8:00PM onwards on The Knobby repeater (VK4RBX).
 
-Simplex Frequency on **FM** **53.525MHz**
-
-Vertical Polarised Antennas
+Adjust your radio to **RX 53.925MHz** and **TX 52.925MHz** (no tone required).
 
 # VHF Morning Nets
 
-Morning nets are also held on the club VHF repeater.and all visitors are welcome
+Morning nets are also held on the club VHF repeater on Monday, Wednesday and Friday mornings at 8:00AM.
 
-Our nets are held on Monday, Wednesday and Friday mornings at 8:00AM.
-
-Set your radio to transmit on **147.325MHz** and receive on **147.925MHz** or access Echolink and select VK4BA-L
+Set your radio to **RX 147.925MHz** and **TX 147.325MHz** or access Echolink and select VK4BA-L.
 
 CTCSS tone of 91.5 is required.
 
+
 Remember it's your hobby so get active and turn your radio on
+
 
 **Congratulations on being a Net Controller**
 
-Ensure you have a pen and paper for your log to write call order and other relevant information , have water, food or anything else you need to have during the entire net and don't forget to have fun
+Ensure you have a pen and paper for your log to write call order and other relevant information, have water, food or anything else you need to have during the entire net and don't forget to have fun.
 
 1. Announce the beginning of the net is about to commence
-2. Announce your name and call sign and that you are the Net controller for this BARC net and doubts should be relayed back to you for comment and or remedy
+2. Announce your name, call sign and that you are the net controller for this BARC net and doubts should be relayed back to you for comment and or remedy
 3. Announce you are ready to receive callers and that they should state their call sign and name
 4. Write in your log of all of the call signs until silence is heard
-5. Then rehearse your list to the callers to affirm all callers and the net order 
+5. Then rehearse your list to the callers to affirm all callers and the net order
 6. You can then ask for any more callers to identify before you start the net
 7. Start the net with the first caller and proceed through the callers to the end of the first over
-8. you can now pause to ask for any more callers
-9. add any callers to the list announcing it to the group
-10. continue on through the overs as above until the end of the net pausing at your over to request any more callers
+8. You can now pause to ask for any more callers
+9. Add any callers to the list announcing it to the group
+10. Continue on through the overs as above until the end of the net pausing at your over to request any more callers
 11. Announce the final over and invite closing comments
-12. Thank everyone for their participation and officially close the net to the group
+12. Thank everyone for their participation and officially close the net to the group.
+
 
 **Running Notes**
+* Listen for specific questions asked from individuals and remind the group when you can.
+* Jump in and rehearse or reinstate the order of callers when needed.
+* Catch all late net callers and slot them at the end of the net over.
+* Remind callers to keep a silent space between each other so the repeater resets when necessary.
 
-listen for specific questions asked from individuals and remind the group  when you can
-
-jump in and rehearse or reinstate the order of callers when needed
-
-catch all late net callers and slot them at the end of the net over
-
-remind callers to keep a silent space between each other so the repeater resets when necessary
-
-Have fun it's a learning experience that will be good for you
+Have fun it's a learning experience that will be good for you.

@@ -43,9 +43,9 @@ Payments to the Club can be made via our Bank Account
 
 ```
 Brisbane Amateur Radio Club
-Bank of Queensland
-BSB 124 002
-Account Number 90135552
+Bendigo Bank
+BSB 633 000
+Account Number 208501973
 ```
 
 Please reference your name or VK callsign so we can recognise you
