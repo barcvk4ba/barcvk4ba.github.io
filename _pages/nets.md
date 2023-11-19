@@ -4,19 +4,17 @@ permalink: /nets/
 toc: true
 ---
 
-There are five weekly evening nets run by the Brisbane Amateur Radio Club members: two on Monday, Wednesday, Friday and Sunday and three morning nets, starting at 8am Monday, Wednesday and Friday.
+There are five weekly nets run by the Brisbane Amateur Radio Club members. All licensed amateurs are welcome to join us.
 
-All licensed amateurs are welcome to join us.
-
-# DMR Monday Evening Net
+# Monday Evening DMR Net
 
 The digital net is run on FreeDMR each Monday night at 7:00PM onwards.
 
 Using your hotspot or your local repeater the talk group is **TG 5050**.
 
-Our Motorola repeater is now fully installed and operating: set your radio to **RX438.725MHz** and **TX431.725MHz**.
+Our Motorola repeater is operating: set your radio to **RX438.725MHz** and **TX431.725MHz**.
 
-# HF Monday Evening Net
+# Monday Evening HF Net
 
 The HF net is run each Monday night at 8:00PM onwards.
 
@@ -24,37 +22,26 @@ First up on the night will start with **3.630MHz** and the modulation mode is LS
 
 This net is run by members who will use VK4RMC 70cm repeater (RX 439.975MHz, TX 434.975MHz, tone 91.5) as a secondary communication channel to set everyone up if there is any change to the frequency.
 
-
 Note that horizontally polarised antennas are being used. Directional, vertically polarised antennas may not be suitable.
 
-# UHF Wednesday Evening Net
+# Wednesday Evening UHF Net
 
 The net is held on UHF on Wednesday evenings from 8:00PM onwards on the Mount Coot-tha repeater.
 
 Adjust your radio to **RX 439.975MHz**, **TX 434.975MHz** and tone 91.5 or access Echolink VK4BA-R.
 
-# UHF Friday Evening Net
+# Friday Evening UHF Net
 
 The net is held on UHF on Fridayday evenings from 8:00PM onwards on the Mount Coot-tha repeater.
 
-Adjust your radio to **RX 439.975MHz**, **TX 434.975MHz** and tone 91.5
+Adjust your radio to **RX 439.975MHz**, **TX 434.975MHz** and tone 91.5 or access Echolink VK4BA-R.
 
-# 6m Sunday Evening Net
+# Sunday Evening 6m Net
 
 The HF net is run each Sunday night from 8:00PM onwards on The Knobby repeater (VK4RBX).
 
 Adjust your radio to **RX 53.925MHz** and **TX 52.925MHz** (no tone required).
 
-# VHF Morning Nets
-
-Morning nets are also held on the club VHF repeater on Monday, Wednesday and Friday mornings at 8:00AM.
-
-Set your radio to **RX 147.925MHz** and **TX 147.325MHz** or access Echolink and select VK4BA-L.
-
-CTCSS tone of 91.5 is required.
-
-
-Remember it's your hobby so get active and turn your radio on
 
 
 **Congratulations on being a Net Controller**
