@@ -33,6 +33,18 @@ Next 5 events, for more events please see the [Club Calendar](/calendar/).
 ### Current Propagation Data
 
 <a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!">
-    <img src="http://www.hamqsl.com/solar101vhfpic.php?muf=drwn">
+    <img src="http://www.hamqsl.com/solar101vhfpic.php?muf=drwn" />
 </a>
 
+
+<p class="small notice">
+<a href="https://bit.ly/46Ls2F1" title="DXing.com.au" target="_blank">
+    <img src="/assets/images/bannerICOM1.jpg" />
+</a>
+<br/>
+Orders and Enquiries: <a href="mailto:mail@DXing.com.au"> mail@DXing.com.au</a><br/>
+<b>DXing</b><br/>
+Suite 403, Level 4, Culwulla Chambers<br/>
+67 Castlereagh St. Sydney 2000 NSW Australia<br/>
+Phone: (02) 9232 0500<br/>
+<a href="mailto:mail@DXing.com.au">Nick VK2D</a></p>
