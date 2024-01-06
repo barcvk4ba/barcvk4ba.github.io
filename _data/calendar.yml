@@ -20,30 +20,13 @@
 
 
 events:
-    - title: Social Meeting
-      date: 2023-10-28
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
 
-    - title: Social Meeting
-      date: 2023-11-11
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2023-11-25
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Club Christmas Event
-      date: 2023-12-09
-      time: 12:00pm - 3:00pm
-      location: Private Event
-      description: Club Members Christmas Event.
-
+    - title: Resume Zoom weekly Club meetings
+      date: 2024-01-18
+      time: 8:00pm - 9:00pm
+      location: Zoom meeting
+      description: Regular club Zoom meeting. All are welcome.
+    
     - title: Social Meeting
       date: 2024-01-27
       time: 1:00pm - 3:00pm
@@ -85,6 +68,11 @@ events:
       time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
+
+    - title: WIA Conversation (3/4 May)
+      date: 2024-05-03
+      location: Bundaberg Radio Club, Bundaberg
+      description: WIA Conversation and Car Boot Sale
 
     - title: Social Meeting
       date: 2024-05-11
@@ -128,11 +116,17 @@ events:
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
+    - title: Remembrance Day Contest (17/18 August)
+      date: 2024-08-17
+      time: 1:00pm - 1:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Remembrance Day Contest 2024.
+
     - title: Social Meeting
       date: 2024-08-24
       time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+      description: Remembrance Day Contest. All are welcome.
 
     - title: Social Meeting
       date: 2024-09-14
@@ -146,6 +140,12 @@ events:
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
+    - title: Oceania DX Contest (5/6 October)
+      date: 2024-10-05
+      time: 4:00pm - 4:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Oceania DX Contest 2024.
+      
     - title: Social Meeting
       date: 2024-10-12
       time: 1:00pm - 3:00pm
