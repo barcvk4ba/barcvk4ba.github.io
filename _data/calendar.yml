@@ -57,6 +57,11 @@ events:
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
+    - title: Redfest
+      date: 2024-04-06
+      location: Redcliffe & Districts Radio Club, Caboolture
+      description: Hamfest
+      
     - title: Social Meeting
       date: 2024-04-13
       time: 1:00pm - 3:00pm
@@ -69,16 +74,21 @@ events:
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
-    - title: WIA Conversation (3/4 May)
-      date: 2024-05-03
+    - title: WIA Convention & Expo (4/5 May)
+      date: 2024-05-04
       location: Bundaberg Radio Club, Bundaberg
-      description: WIA Conversation and Car Boot Sale
+      description: WIA Convention and Car Boot Sale
 
     - title: Social Meeting
       date: 2024-05-11
       time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
+
+    - title: Clairview Gathering
+      date: 2024-05-11
+      location: Mackay and Rockhampton
+      description: Hamfest.
 
     - title: Social Meeting
       date: 2024-05-25
