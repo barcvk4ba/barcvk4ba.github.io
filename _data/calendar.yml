@@ -96,8 +96,12 @@ events:
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
+    - title: VK3 Shires Contest
+      date: 2024-06-08
+      description: The objectives of this contest are for amateurs around the world to contact as many VK shires as possible.
+
     - title: Social Meeting
-      date: 2024-06-09
+      date: 2024-06-08
       time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
@@ -113,7 +117,11 @@ events:
       time: 1:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
-
+ 
+    - title: Trans Tasman Low Bands Challenge 2024
+      date: 2024-07-20
+      description: The contest aims to encourage low band activity between VK and ZL.
+      
     - title: Social Meeting
       date: 2024-07-27
       time: 1:00pm - 3:00pm
