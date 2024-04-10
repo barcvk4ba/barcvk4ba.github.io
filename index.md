@@ -29,6 +29,10 @@ Next 5 events, for more events please see the [Club Calendar](/calendar/).
 
 {% include calendar.html limit="5" %}
 
+### Cans For Cash
+If you wish to donate cans or bottles to the club, the account number is C11438389.
+Donations go directly to the club account.
+[More info here](http://www.containersforchange.com.au/qld/how-it-works/){:target="_blank"}
 
 ### Current Propagation Data
 
