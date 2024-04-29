@@ -4,7 +4,7 @@ permalink: /where/
 ---
 
 The club meets twice per month, on the 2nd Saturday of the month and the 4th Saturday of the month for projects and working
-bees at the Rochedale Scouts Den, located at 21 Rochedale Road Rochdale. The entrance is at the northern end of Rochedale road.
+bees at the Rochedale Scouts Den, located at 21 Rochedale Road Rochedale. The entrance is at the northern end of Rochedale road.
 
 Coming from Mt Gravatt Capabala Road, turn right into Grieve Road. You will notice that the road splits into two - the right hand road becomes Rochedale Road
 
