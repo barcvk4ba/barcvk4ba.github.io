@@ -9,7 +9,7 @@ toc: true
 ```
 Rochedale Scout Den
 21 Rochedale road, Rochedale
-Queenland.
+Queensland.
 ```
 
 # Postal Address
