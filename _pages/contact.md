@@ -25,17 +25,17 @@ Rochedale South, 4123, Queensland
 
 [contact@barcvk4ba.com.au](mailto:contact@barcvk4ba.com.au)
 
+# Membership Enquiries
+
+```
+Rod Chisholm VK4ACF
+rod.chisholm27@icloud.com
+0419 671 483
+```
+
 # Newsletter
 
-Newsletter items may be sent to.
-
-```
-The Editor - QSP
-22/62-66 Springwood Road
-Rochedale South, 4123, Queensland
-```
-
-Or by E-mail to [contact@barcvk4ba.com.au](mailto:contact@barcvk4ba.com.au)
+Newsletter items may be sent by E-mail to [contact@barcvk4ba.com.au](mailto:contact@barcvk4ba.com.au)
 
 # Payments
 
