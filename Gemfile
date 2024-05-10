@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 4.2'
+gem 'jekyll'
+gem 'json'
 gem 'minimal-mistakes-jekyll'
 gem 'webrick'
 
