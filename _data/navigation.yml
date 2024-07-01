@@ -71,3 +71,6 @@ leftnav:
           - title: Software
             url: /docs/software/
 
+          - title: Code Plugs
+            url: /codeplugs/
+

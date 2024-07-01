@@ -11,55 +11,6 @@ author_profile: false
 # it will appear in this page/list
 #
 ---
-
-Our Club entry into DMR started with a member presentation on all Digital Radio modes
-and after some discussion we settled on DMR and in particular Retevis RT3S handheld
-radios to make our way into this Network.
-
-Our information on this page will be based on these radios specifically but most of
-the information will still apply to other types of radios.
-
-[https://vkdmr.com/programming-your-radio](https://vkdmr.com/programming-your-radio)
-To program your own code plug from scratch you will need to understand a few basic principles that are explained on this website
-
-For club members to all be on the same level of operation we have provided a code
-plug/config file to get started with and you will need your own radio id to make it go see this website
-[https://www.radioid.net](https://www.radioid.net/#!)
-
-## Retevis RT3s Club Plug
-
-**Curent File:** [BARC_ver1.8.0.rdt](/assets/dmr/BARC_ver1.8.0.rdt)
-<br/>
-**Updated:** 2023-03-01
-<br/>
-<br/>
-Please ensure you set your _**Radio ID**_, _**Radio Name**_, and customise your
-_Intro Screen Lines_.
-<br/>
-<br/>
-(We suggest you use your call sign in the intro lines so everyone can identify
-who owns any random radio left floating around the club!)
-{: .notice--info}
-
-
-The BARC plug is based on seven local Sth East Qld repeaters with the usual talk
-groups attached with additional analogue 70cm/2m repeaters etc.
-
-A long push of buttons above or below the PTT will change the repeater zone
-and then twist of the top knob to tune into popular talk groups make it an easy
-way to operate efficiently.
-
-If updated we will change the version number so you know if you have the latest
-version into the future.
-
-Also should we in future publish other config versions they will be based on
-other repeaters that we may wish to use inside Australia or Worldwide.
-
-You are encouraged to modify and add to this file as your preferences lead you,
-but then you own it and this one will remain should you ever need it again.
-
-Enjoy your radio.
-
 ## VKDMR Hotspot Setup
 
 Michael Lanagan (VK4MWL) has pulled together a great guide to DMR hotspots and
