@@ -20,7 +20,7 @@ plug/config file to get started with and you will need your own radio id to make
 
 ## Retevis RT3s with Original Firmware
 
-**Curent File:** [BARC_ver1.8.0.rdt](/assets/codeplugs/BARC_ver1.8.0.rdt)
+**Curent File:** [BARC ver1.8.0.rdt](/assets/codeplugs/BARC_ver1.8.0.rdt)
 <br/>
 **Updated:** 2023-03-01
 <br/>
@@ -34,7 +34,7 @@ _Intro Screen Lines_.
 
 ## Retevis RT3s with OpenGD77 Firmware
 
-**Curent File:** [OpenGD77xx_20240701.g77](/assets/codeplugs/RT3_OpenGD77_20240701.g77)
+**Curent File:** [RT3 OpenGD77 20240701.g77](/assets/codeplugs/RT3_OpenGD77_20240701.g77)
 <br/>
 **Updated:** 2024-07-01
 <br/>
