@@ -9,27 +9,23 @@
 #   bearer: Name of office bearer, maybe omitted for vacant
 #   callsign: Callsign of office bearer, may be omitted if no call sign or bearer
 
-year: 2023/2024
+year: 2024/2025
 offices:
     - office: President
-      bearer: Graham Vayro
-      callsign: VK4CEG
+      bearer: Guerino Galeazzi
+      callsign: VK4GUE
 
     - office: Vice President
-      bearer: Rod Chisholm
-      callsign: VK4ACF
+      bearer: Michael O'Donnell
+      callsign: VK4MGO
 
     - office: Secretary
-      bearer: Rod Chisholm
-      callsign: VK4ACF
+      bearer: Scotty Brown
+      callsign: VK4BRO
 
     - office: Treasurer
       bearer: Greg Meyer
       callsign: VK4GLM
-
-    - office: Librarian
-      bearer: Bill Johnson
-      callsign: VK4LPU
 
     - office: Webmaster
       bearer: Ashley Roll
@@ -39,22 +35,26 @@ offices:
       bearer: Guerino Galeazzi
       callsign: VK4GUE
 
-    - office: Providor
-      bearer: Shannon Duffy
-      callsign: VK4FHEA
+    - office: Providore
+      bearer: Michael O'Donnell
+      callsign: VK4MGO
 
     - office: Repeater Manager
       bearer: Glenn Lyons
       callsign: VK4PK
 
-    - office: Publicity / Liason Officer
-      bearer: Michael O'Donnell
-      callsign: VK4MGO
+    - office: Assistant Repeater Manager
+      bearer: Shannon Duffy
+      callsign: VK4FHEA
 
-    - office: Accredited Learning Facilitator
+    - office: Social Media & Publicity
+      bearer: Praj Bhattaram
+      callsign: VK4MPB
+
+    - office: Accredited Assessor
       bearer: Michael Lanagan
       callsign: VK4MWL
 
-    - office: Accredited Learning Facilitator
+    - office: Accredited Assessor
       bearer: Michael O'Donnell
       callsign: VK4MGO
