@@ -27,11 +27,8 @@ Rochedale South, 4123, Queensland
 
 # Membership Enquiries
 
-```
-Rod Chisholm VK4ACF
-rod.chisholm27@icloud.com
-0419 671 483
-```
+
+[membership@barcvk4ba.com.au](mailto:membership@barcvk4ba.com.au)
 
 # Newsletter
 
