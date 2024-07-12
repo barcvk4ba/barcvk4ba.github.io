@@ -23,16 +23,7 @@ Rochedale South, 4123, Queensland
 
 # E-Mail Address
 
-[contact@barcvk4ba.com.au](mailto:contact@barcvk4ba.com.au)
-
-# Membership Enquiries
-
-
 [membership@barcvk4ba.com.au](mailto:membership@barcvk4ba.com.au)
-
-# Newsletter
-
-Newsletter items may be sent by E-mail to [contact@barcvk4ba.com.au](mailto:contact@barcvk4ba.com.au)
 
 # Payments
 
