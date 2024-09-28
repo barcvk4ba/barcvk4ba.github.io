@@ -22,6 +22,7 @@ Our repeater operates at the frequencies below:
 
 * Output Frequency: 439.950 MHz
 * Input Frequency: 434.950 MHz
+* CTCSS tone of 91.5 is required to access the repeater.
 
 ## 2m
 
