@@ -25,7 +25,7 @@ concurrency:
 
 jobs:
   # Build job
-  build:
+  build-github-pages:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
