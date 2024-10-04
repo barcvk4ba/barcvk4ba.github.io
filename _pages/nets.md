@@ -5,7 +5,7 @@ toc: true
 ---
 
 There are five weekly nets run by the Brisbane Amateur Radio Club members. All licensed amateurs are welcome to join us.
-
+<!---
 # Monday Evening DMR Net
 
 The digital net is run on FreeDMR each Monday night at 7:00PM onwards.
@@ -13,7 +13,7 @@ The digital net is run on FreeDMR each Monday night at 7:00PM onwards.
 Using your hotspot or your local repeater the talk group is **TG 5050**.
 
 Our Motorola repeater is operating: set your radio to **RX438.725MHz** and **TX431.725MHz**.
-
+-->
 # Monday Evening HF Net
 
 The HF net is run each Monday night at 8:00PM onwards.
