@@ -12,7 +12,6 @@ name: Nightly Rebuild
 on:
   push:
     branches:
-      - master
       - main
   schedule:
     - cron: "5 14 * * *"
