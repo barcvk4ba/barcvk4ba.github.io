@@ -12,7 +12,8 @@ name: Nightly Rebuild
 on:
   push:
     branches:
-      - $default-branch
+      - master
+      - main
   schedule:
     - cron: "5 14 * * *"
   workflow_dispatch:
