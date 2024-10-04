@@ -55,6 +55,12 @@ footer:
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
+# Minimal mistakes theme currently uses old div operator for some calculations and not the saas.math package
+# and so we get lots of warnings about it. Apparently they are not changing it.
+# https://github.com/mmistakes/minimal-mistakes/issues/4054
+sass:
+  quiet_deps: true    # Disable printing deprecation warnings to terminal
+
 # Analytics
 analytics:
   provider: "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
