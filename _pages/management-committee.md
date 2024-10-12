@@ -1,6 +1,6 @@
 ---
-title: Office Bearers
-permalink: /docs/office-bearers/
+title: Management Committee
+permalink: /docs/management-committee/
 
 # We will define the list of roles and office bearers in
 # the _data/office-bearers.yml file so that we can build
@@ -10,7 +10,7 @@ permalink: /docs/office-bearers/
 
 ---
 
-## Office Bearers {{ site.data.officebearers.year }}
+## Management Committee {{ site.data.officebearers.year }}
 
 <table>
     <thead>
@@ -36,5 +36,5 @@ permalink: /docs/office-bearers/
 </table>
 
 ## Notes
-Committee positions are elected at the Annual General Meeting which is held in May or June of each year.
+Management Committee positions are elected at the Annual General Meeting which is held in July of each year.
 
