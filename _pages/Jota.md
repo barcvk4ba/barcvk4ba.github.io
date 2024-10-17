@@ -1,5 +1,5 @@
 ---
-title: Jota Joti
+title: Jota
 permalink: /jota/
 toc: true
 ---
