@@ -4,7 +4,7 @@ permalink: /jota/
 toc: true
 ---
 
-# BARC Jota Joti
+# BARC Jota
 Next event on Saturday 19 October 2024.
 
 # Web SDR
@@ -20,7 +20,7 @@ Next event on Saturday 19 October 2024.
 | VK4RBA BARC UHF | 439.950 @ - 5.0, Tone 91.5 |
 | VK4RBA BARC Parrot | 145.225 Simplex |
 | VK4RMC Mt Coot-Tha | 146.650 @ - 0.6, Tone 91.5 (WAN) |
-| VK4RBN Mt Glorius (Redcliffe) | 147.000 @ - 0.6, Tone 91.5 | 
+| VK4RBN Mt Glorius (Redcliffe) | 147.000 @ - 0.6, Tone 91.5 |
 | VK4RBR Mt Gravatt (VK4WIE) |    147.350 @ + 0.6, Tone 91.5 |
 | VK4RBR Mt Gravatt (VK4WIE) |    438.275 @ -7.0, Tone 91.5 |
 | VK4RDB Mt Cotton (Bayside) |   146.875 @ - 0.6, Tone 91.5 |
