@@ -34,5 +34,3 @@ Next event on Saturday 19 October 2024.
 | BARC 3 | 146.60 Simplex |
 
 
-
-![Alt text](/assets//images/Morse%20Code.png "Morse Code")
