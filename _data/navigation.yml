@@ -77,7 +77,7 @@ leftnav:
 
     - title: Jota
       children:
-          - title: Jota
+          - title: Jota SDR & Info
             url: /jota/
 
           - title: Jota Map 2024
