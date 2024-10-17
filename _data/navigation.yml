@@ -74,6 +74,9 @@ leftnav:
           - title: Code Plugs
             url: /codeplugs/
 
+
+    - title: Jota
+      children:
           - title: Jota
             url: /jota/
 
@@ -82,7 +85,7 @@ leftnav:
 
           - title: Jota Morse Code
             url: /jotaMorse/
-            
+
           - title: Jota CQ
             url: /jotaCQ/
 
