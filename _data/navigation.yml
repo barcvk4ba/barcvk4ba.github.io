@@ -37,8 +37,8 @@ leftnav:
           - title: Repeaters
             url: /repeaters/
 
-          - title: Consititution
-            url: /docs/constitution/
+          - title: Constitution (pdf)
+            url: /assets/forms/BARC_Constitution.pdf
 
           - title: Management Committee
             url: /docs/management-committee/
