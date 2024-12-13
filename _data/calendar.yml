@@ -21,48 +21,6 @@
 
 events:
    
-    - title: Monthly Meeting
-      date: 2024-10-10
-      time: 8:00pm - 9:00pm
-      location: Zoom videocall 
-      description: Monthly admin and management meeting.
-
-    - title: Social Meeting
-      date: 2024-10-12
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Jota
-      date: 2024-10-19
-      time: 1:00pm - 4:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Scout Jota 2024.
-
-    - title: Social Meeting
-      date: 2024-10-26
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2024-11-09
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Monthly Meeting
-      date: 2024-11-14
-      time: 8:00pm - 9:00pm
-      location: Zoom videocall 
-      description: Monthly admin and management meeting.
-
-    - title: Social Meeting
-      date: 2024-11-23
-      time: 1:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
     - title: Club Christmas Lunch
       date: 2024-12-07
       time: 12:00pm
@@ -77,7 +35,7 @@ events:
 
     - title: Social Meeting
       date: 2024-12-14
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome. Last for 2024.
 
@@ -89,7 +47,7 @@ events:
 
     - title: First Social Meeting 2025
       date: 2025-02-08
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
@@ -101,13 +59,13 @@ events:
 
     - title: Social Meeting
       date: 2025-02-22
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Social Meeting
       date: 2025-03-08
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
@@ -119,13 +77,13 @@ events:
 
     - title: Social Meeting
       date: 2025-03-22
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Social Meeting
       date: 2025-04-12
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
@@ -137,13 +95,13 @@ events:
 
     - title: Social Meeting
       date: 2025-04-26
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Social Meeting
       date: 2025-05-10
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
@@ -155,13 +113,13 @@ events:
 
     - title: Social Meeting
       date: 2025-05-24
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Social Meeting
       date: 2025-06-14
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
@@ -173,13 +131,13 @@ events:
 
     - title: Social Meeting
       date: 2025-06-28
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Social Meeting
       date: 2025-07-12
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
@@ -191,13 +149,13 @@ events:
 
     - title: Social Meeting
       date: 2025-07-26
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Social Meeting
       date: 2025-08-09
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
@@ -209,13 +167,13 @@ events:
 
     - title: Social Meeting
       date: 2025-08-23
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Social Meeting
       date: 2025-09-13
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
@@ -227,13 +185,13 @@ events:
 
     - title: Social Meeting
       date: 2025-09-27
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Social Meeting
       date: 2025-10-11
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
@@ -245,13 +203,13 @@ events:
 
     - title: Social Meeting
       date: 2025-10-25
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Social Meeting
       date: 2025-11-08
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
@@ -263,13 +221,13 @@ events:
 
     - title: Social Meeting
       date: 2025-11-22
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Social Meeting
       date: 2025-12-13
-      time: 1:00pm - 3:00pm
+      time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
