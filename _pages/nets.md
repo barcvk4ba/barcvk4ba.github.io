@@ -6,27 +6,31 @@ toc: true
 
 There are five weekly nets run by the Brisbane Amateur Radio Club members. All licensed amateurs are welcome to join us.
 
-# Monday Evening HF Net
+# Monday Evening HF Net 
 
 The HF net is run each Monday night at 8:00PM onwards.
 
 First up on the night will start with **3.630MHz** and the modulation mode is LSB or SSB.
 
-This net is run by members who will use VK4RMC 70cm repeater (RX 439.975MHz, TX 434.975MHz, tone 91.5) as a secondary communication channel to set everyone up if there is any change to the frequency.
-
 Note that horizontally polarised antennas are being used. Directional, vertically polarised antennas may not be suitable.
 
-# Wednesday Evening UHF Net
+# Monday Evening VHF Net
 
-The net is held on UHF on Wednesday evenings from 8:00PM onwards on the Mount Coot-tha repeater.
+The net is held on VHF on Monday evenings from 7:00PM onwards on the Mount Coot-tha repeater.
 
-Adjust your radio to **RX 439.975MHz**, **TX 434.975MHz** and tone 91.5 or access Echolink VK4BA-R.
+Adjust your radio to **RX 146.650MHz**, **TX 146.050MHz** and tone 91.5.
 
-# Friday Evening UHF Net
+# Wednesday Evening VHF Net
 
-The net is held on UHF on Fridayday evenings from 8:00PM onwards on the Mount Coot-tha repeater.
+The net is held on VHF on Wednesday evenings from 8:00PM onwards on the Mount Coot-tha repeater.
 
-Adjust your radio to **RX 439.975MHz**, **TX 434.975MHz** and tone 91.5 or access Echolink VK4BA-R.
+Adjust your radio to **RX 146.650MHz**, **TX 146.050MHz** and tone 91.5.
+
+# Friday Evening VHF Net
+
+The net is held on VHF on Fridayday evenings from 8:00PM onwards on the Mount Coot-tha repeater.
+
+Adjust your radio to **RX 146.650MHz**, **TX 146.050MHz** and tone 91.5.
 
 # Sunday Evening 6m Net
 
