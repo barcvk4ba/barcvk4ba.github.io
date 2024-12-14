@@ -6,7 +6,7 @@ toc: true
 
 There are five weekly nets run by the Brisbane Amateur Radio Club members. All licensed amateurs are welcome to join us.
 
-# Monday Evening HF Net
+# Monday Evening HF Net 
 
 The HF net is run each Monday night at 8:00PM onwards.
 

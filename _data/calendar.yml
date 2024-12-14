@@ -5,7 +5,7 @@
 #
 # events:
 #   title: The title
-#   date: YYYY-MM-DD date
+#   date: YYYY-MM-DD date 
 #   time: The time of the entry
 #   location: Where is it?
 #   description: Some description of what is happening
