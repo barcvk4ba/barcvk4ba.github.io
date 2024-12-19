@@ -34,6 +34,17 @@ If you wish to donate cans or bottles to the club, the account number is C114383
 Donations go directly to the club account.
 [More info here](http://www.containersforchange.com.au/qld/how-it-works/){:target="_blank"}
 
+### Payments
+Payments to the club can be made via our Bank Account
+
+```
+Brisbane Amateur Radio Club
+Bendigo Bank
+BSB 633 000
+Account Number 208501973
+```
+Please put your name or callsign as the reference
+
 ### Current Propagation Data
 
 <a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!">
