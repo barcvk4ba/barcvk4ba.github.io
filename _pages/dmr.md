@@ -13,11 +13,25 @@ author_profile: false
 ---
 ## VKDMR Hotspot Setup
 
-Michael Lanagan (VK4MWL) has pulled together a great guide to DMR hotspots and
+Michael VK4MWL has pulled together a great guide to DMR hotspots and
 how to set yours up.
 
 **Curent File:** [VKDMR_Hotspot_Setup_v1.3.pdf](/assets/dmr/VKDMR_Hotspot_Setup_v1.3.pdf)
 {: .notice--info}
+
+## DMR Radio Setup and Etiquette
+
+Bruce VK4EHT has prepared excellent guides on how to configure and use DMR radios.
+
+**Digital voice and etiquette:** [VKDMR_Hotspot_Setup_v1.3.pdf](/assets/dmr/Digital voice net ettiquettev1.0.pdf)
+{: .notice--info}
+**DMR talkgroups and timeslots:** [VKDMR_Hotspot_Setup_v1.3.pdf](/assets/dmr/DMR TalkGroups & TimeSlots.pdf)
+{: .notice--info}
+**Configuring a DMR radio:** [VKDMR_Hotspot_Setup_v1.3.pdf](/assets/dmr/General notes for configuring a DMR radio.pdf)
+{: .notice--info}
+**Signal reporting in DMR:** [VKDMR_Hotspot_Setup_v1.3.pdf](/assets/dmr/Signal reporting in DMR.abw.pdf)
+{: .notice--info}
+
 
 ## Links
 
@@ -39,4 +53,3 @@ assign entries = site.articles
   {%- endunless -%}
 {%- endfor -%}
 
-It's your hobby so get active and turn your radio on
