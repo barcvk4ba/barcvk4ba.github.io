@@ -22,8 +22,7 @@ Welcome to the Brisbane Amateur Radio Club website!
 
 ### Club Calendar
 
-Each Thursday evening at 8pm we have a Zoom call. Everyone is welcome, so
-contact us and we will happily send you the link.
+Each Thursday evening at 8pm we have a Zoom call.
 
 Next 5 events, for more events please see the [Club Calendar](/calendar/).
 
