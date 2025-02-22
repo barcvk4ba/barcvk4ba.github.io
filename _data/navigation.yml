@@ -63,6 +63,9 @@ leftnav:
           - title: DMR Info
             url: /articles/dmr/
 
+          - title: Get Your Licence
+            url: /licences/
+
     - title: Other
       children:
           - title: Links
