@@ -7,12 +7,15 @@ toc: true
 # When you decide you want an Amateur licence
 
 Visit the Brisbane Amateur Radio Club, meet some members and learn about Amateur Radio.
-Check [Wireless Institute Australia (WIA)](https://wia.org.au) or [Radio Amateurs Society of Australia (RASA)](https://vkradioamateurs.org). Both have study guides online and sample questions for the exams are available. There are several training courses online where more formal classes are held. Make sure you study for the Australian licence.
+Check [Wireless Institute Australia (WIA)](https://wia.org.au) or [Radio Amateur Society of Australia (RASA)](https://vkradioamateurs.org). Both have study guides online and sample questions for the exams are available. There are several training courses online from [Radio and Electronics School (RES)](https://res.net.au) and [Silverdale TrainSafe)](https://silvertrain.com.au).
+Make sure you study for the Australian licence and refer to the [ACMA Syllabus)](https://www.acma.gov.au/amateur-radio-resources#documents)
 
 # Levels of Licence
 * The **Foundation Licence** is an entry level and will get your on the air (with limited power and frequencies).
 * The **Standard Licence** has more complex exam questions but allows more power and more frequency bands.
 * The **Advanced licence** is again more complex with greater power allowed and provides access to more bands.
+
+For more details, visit [ACMA Qualifications)](https://www.acma.gov.au/qualifications-operate-amateur-radio)
 
 # Taking the exam
 When you can confidently complete most of the sample questions contact an [**Accredited Assessor**](mailto:membership@barcvk4ba.com.au) who will arrange your exam. Some notice is required to arrange printing of exam papers. There is no cost for the exam and Assessors are unpaid volunteers. The exam can take 2 - 3 hours.
