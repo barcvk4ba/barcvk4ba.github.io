@@ -19,7 +19,7 @@ This is a complex subject, but a simple method is to to be found on [this site](
 This is a web based version of the VOACAP program originally devised by the international
 broadcaster Voice of America.
 
-Full instructions for use may be found [here](http://voacap.blogspot.fi/2013/07/voacap-online-next-generation-user.html){:target="_blank"}
+Full instructions for use may be found [here](https://voacap.blogspot.com/2017/05/voacap-online-point-to-point-p2p-user.html){:target="_blank"}
 but, for normal use, it is only necessary to "drag and drop" the red symbol on the map
 (the transmitter QTH) and the blue symbol (the receiver location). Set the transmitter power and
 select antennas from the lists. Select the modulation type.
