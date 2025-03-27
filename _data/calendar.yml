@@ -82,10 +82,16 @@ events:
       description: Regular social gathering. All are welcome.
 
     - title: Social Meeting
-      date: 2025-04-12
+      date: 2025-04-05
       time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
+
+    - title: Redfest 25
+      date: 2025-04-12
+      time: 08:00am
+      location: Deception Bay North State School
+      description: Redcliffe Radio Club Hamfest.
 
     - title: Monthly Admin Meeting
       date: 2025-04-10
