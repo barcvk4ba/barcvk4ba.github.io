@@ -104,6 +104,11 @@ events:
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
+    - title: Amatuer Licence Exams
+      date: 2025-05-10
+      time: 9:30am
+      location: BARC Clubhouse, Rochedale Scout Hall
+      
     - title: Social Meeting
       date: 2025-05-10
       time: 12:00pm - 3:00pm
@@ -122,12 +127,17 @@ events:
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
+    - title: Amatuer Licence Exams
+      date: 2025-06-14
+      time: 9:30am
+      location: BARC Clubhouse, Rochedale Scout Hall
+
     - title: Social Meeting
       date: 2025-06-14
       time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
-
+      
     - title: Monthly Admin Meeting
       date: 2025-06-12
       time: 8:00pm - 9:00pm
@@ -140,12 +150,17 @@ events:
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
+    - title: Amatuer Licence Exams
+      date: 2025-07-12
+      time: 9:30am
+      location: BARC Clubhouse, Rochedale Scout Hall
+
     - title: Social Meeting
       date: 2025-07-12
       time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
-
+      
     - title: Monthly Admin Meeting
       date: 2025-07-10
       time: 8:00pm - 9:00pm
@@ -158,12 +173,17 @@ events:
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
+    - title: Amatuer Licence Exams
+      date: 2025-08-09
+      time: 9:30am
+      location: BARC Clubhouse, Rochedale Scout Hall
+
     - title: Social Meeting
       date: 2025-08-09
       time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
-
+   
     - title: Monthly Admin Meeting
       date: 2025-08-14
       time: 8:00pm - 9:00pm
@@ -176,12 +196,17 @@ events:
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
+    - title: Amatuer Licence Exams
+      date: 2025-09-13
+      time: 9:30am
+      location: BARC Clubhouse, Rochedale Scout Hall
+
     - title: Social Meeting
       date: 2025-09-13
       time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
-
+   
     - title: Monthly Admin Meeting
       date: 2025-09-11
       time: 8:00pm - 9:00pm
@@ -193,6 +218,11 @@ events:
       time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
+
+    - title: Amatuer Licence Exams
+      date: 2025-10-11
+      time: 9:30am
+      location: BARC Clubhouse, Rochedale Scout Hall
 
     - title: Social Meeting
       date: 2025-10-11
@@ -218,24 +248,34 @@ events:
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
+    - title: Amatuer Licence Exams
+      date: 2025-11-13
+      time: 9:30am
+      location: BARC Clubhouse, Rochedale Scout Hall
+
     - title: Monthly Admin Meeting
       date: 2025-11-13
       time: 8:00pm - 9:00pm
       location: Zoom videocall 
       description: Monthly admin and management meeting.
-
+      
     - title: Social Meeting
       date: 2025-11-22
       time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
+    - title: Amatuer Licence Exams
+      date: 2025-12-13
+      time: 9:30am
+      location: BARC Clubhouse, Rochedale Scout Hall
+
     - title: Social Meeting
       date: 2025-12-13
       time: 12:00pm - 3:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
-
+      
     - title: Monthly Admin Meeting
       date: 2025-12-11
       time: 8:00pm - 9:00pm

@@ -25,6 +25,11 @@ Rochedale South, 4123, Queensland
 
 [membership@barcvk4ba.com.au](mailto:membership@barcvk4ba.com.au)
 
+# Exams and Assessors
+
+[exams@barcvk4ba.com.au](mailto:exams@barcvk4ba.com.au)
+
+
 # Payments
 
 Payments to the Club can be made via our Bank Account
