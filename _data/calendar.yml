@@ -93,12 +93,11 @@ events:
       location: Deception Bay North State School
       description: Redcliffe Radio Club Hamfest.
 
-    - title: Monthly Admin Meeting
+    - title: Tech Talk
       date: 2025-04-10
       time: 8:00pm - 9:00pm
       location: Zoom videocall 
-      description: Monthly admin and management meeting.
-
+      
     - title: Social Meeting
       date: 2025-04-26
       time: 12:00pm - 3:00pm
