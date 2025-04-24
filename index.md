@@ -50,3 +50,6 @@ Please put your name or callsign as the reference
     <img src="http://www.hamqsl.com/solar101vhfpic.php?muf=drwn" />
 </a>
 
+<div style="display: flex; justify-content: center;">
+  <img src="/assets/images/ACNC-Registered-Charity-Logo_RGB.png" width="50%" height="50%">
+</div>

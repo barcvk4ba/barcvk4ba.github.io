@@ -19,6 +19,7 @@ The Secretary
 Brisbane Amateur Radio Club.
 22/62-66 Springwood Road
 Rochedale South, 4123, Queensland
+Phone: 0493 083 057
 ```
 
 # E-Mail Address
