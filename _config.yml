@@ -28,7 +28,7 @@ baseurl: ""     # the subpath of your site, e.g. /blog
 repository: barcvk4ba/barcvk4ba.github.io
 
 #facebook_username: Brisbane-Amateur-Radio-Club-BARC-VK4BA-879007988845541
-#email: contact@barcvk4ba.com.au
+#email: contact@barc.org.au
 
 # Timezone
 timezone: Australia/Brisbane
@@ -44,8 +44,8 @@ footer:
       - label: GitHub
         url: https://github.com/barcvk4ba
         icon: fab fa-github
-      - label: contact@barcvk4ba.com.au
-        url: mailto:contact@barcvk4ba.com.au
+      - label: contact@barc.org.au
+        url: mailto:contact@barc.org.au
         icon: fas fa-envelope
 
 #
