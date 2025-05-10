@@ -24,7 +24,7 @@ Phone: 0493 083 057
 
 # E-Mail Address
 
-[membership@barc.org.au](mailto:membership@barc.org.au)
+[contact@barc.org.au](mailto:contact@barc.org.au)
 
 # Exams and Assessors
 
@@ -32,7 +32,7 @@ Phone: 0493 083 057
 
 # Information and Social Media 
 
-[informationofficer@barc.org.au](mailto:informationofficer@barc.org.au)
+[information-officer@barc.org.au](mailto:information-officer@barc.org.au)
 
 # Payments
 
