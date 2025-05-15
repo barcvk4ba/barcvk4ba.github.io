@@ -65,7 +65,7 @@ sass:
 analytics:
   provider: "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id: "UA-180722310-1" # Replace this with your ID, or delete
+    tracking_id: "G-LSPPQCJRQM" # Replace this with your ID, or delete
     anonymize_ip: false
 
 
