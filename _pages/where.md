@@ -16,10 +16,8 @@ At either meeting we try to have a talk by a club member or invited guest on the
 
 ![Map View]({% link /assets/images/where/map.png %}){: .align-center }
 
-The first and second meetings for the month are a mix of social and project day/meetings and we start around 1.00pm. 
-
-Weekly teleconferences are held every Thursday 8pm and are by invite.
+The first and second meetings for the month are a mix of social and project day/meetings and we start around 12.00pm with a sausage sizzle. 
 This is our regular face to face contact to discuss anything.
-Our business meetings are held 3 times per year at this venue and will include the AGM. 
 
-
+We chat a bunch on the club Discord server in between meeting. 
+Weekly teleconferences are held every Thursday 8pm and are by invite.

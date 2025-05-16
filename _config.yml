@@ -41,6 +41,9 @@ footer:
       - label: Facebook
         url: https://www.facebook.com/Brisbane-Amateur-Radio-Club-BARC-VK4BA-879007988845541
         icon: fab fa-facebook
+      - label: Discord
+        url: mailto:contact@barc.org.au
+        icon: fab fa-discord
       - label: GitHub
         url: https://github.com/barcvk4ba
         icon: fab fa-github
