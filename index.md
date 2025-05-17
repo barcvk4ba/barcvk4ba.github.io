@@ -22,7 +22,7 @@ Welcome to the Brisbane Amateur Radio Club website!
 
 ### Club Calendar
 
-Each Thursday evening at 8pm we have a Zoom call.
+Each Thursday evening at 8pm we have a Discord call.
 
 Next 5 events, for more events please see the [Club Calendar](/calendar/).
 

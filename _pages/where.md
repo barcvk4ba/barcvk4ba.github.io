@@ -3,23 +3,13 @@ title: Where We Meet
 permalink: /where/
 ---
 
-The club meets twice per month, on the 2nd Saturday of the month and the 4th Saturday of the month for projects and working
-bees at the Rochedale Scouts Den, located at 21 Rochedale Road Rochedale. The entrance is at the northern end of Rochedale road.
+Club shack days at Rochedale are the second and fourth Saturday of every month. They are a great mix of social and amateur radio related discussion, starting at 12PM with a sausage sizzle.
 
-Coming from Mt Gravatt Capabala Road, turn right into Grieve Road. You will notice that the road splits into two - the right hand road becomes Rochedale Road
+We meet online every Thursday night at 8PM for tech talks and general amateur radio related discussion.
+We also chat a bunch on the club Discord server in between meetings.
 
-All other meetings will be posted as they come to hand and notified by email to members.
-
-At either meeting we try to have a talk by a club member or invited guest on the latest projects
+The club has a number of members that are very active in [Parks on the Air](https://parksontheair.com/) (POTA) and [Summits on the Air](https://www.sota.org.uk/) (SOTA).  We are always keen to get anyone interested along on an activation to see what it's all about. The club also has a remote HF setup for members to use, for hunting POTA/SOTA activators, HF nets or just HF DX.
 
 ![Satellite View]({% link /assets/images/where/sat.png %}){: .align-center }
 
 ![Map View]({% link /assets/images/where/map.png %}){: .align-center }
-
-The first and second meetings for the month are a mix of social and project day/meetings and we start around 1.00pm. 
-
-Weekly teleconferences are held every Thursday 8pm and are by invite.
-This is our regular face to face contact to discuss anything.
-Our business meetings are held 3 times per year at this venue and will include the AGM. 
-
-
