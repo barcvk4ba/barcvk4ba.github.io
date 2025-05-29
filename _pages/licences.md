@@ -7,7 +7,7 @@ toc: true
 # When you decide you want an Amateur licence
 
 Visit the Brisbane Amateur Radio Club, meet some members and learn about Amateur Radio.
-Check [Wireless Institute Australia (WIA)](https://wia.org.au) or [Radio Amateur Society of Australia (RASA)](https://vkradioamateurs.org). Both have study guides online and sample questions for the exams are available. There are several training courses online from [Radio and Electronics School (RES)](https://res.net.au) and [Silverdale TrainSafe)](https://silvertrain.com.au).
+Check [Wireless Institute Australia (WIA)](https://wia.org.au), [WIA Education Committee](https://www.wia-education.com.au/home) or [Radio Amateur Society of Australia (RASA)](https://vkradioamateurs.org). Both have study guides online and sample questions for the exams are available. Check [Jules VK3JFP Workshop](https://www.julesworkshop.net/Amateur%20Radio%20Group/5%20Regulations%20page.html). There are several training courses online from [Radio and Electronics School (RES)](https://res.net.au) and [Silverdale TrainSafe)](https://silvertrain.com.au).
 Make sure you study for the Australian licence and refer to the [ACMA Syllabus)](https://www.acma.gov.au/amateur-radio-resources#documents)
 
 # Levels of Licence
