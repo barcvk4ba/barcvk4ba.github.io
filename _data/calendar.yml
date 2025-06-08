@@ -132,18 +132,12 @@ events:
       time: 9:30am
       location: BARC Clubhouse, Rochedale Scout Hall
 
-    - title: Social Meeting
+    - title: Brisbane Meshtastic Meetup
       date: 2025-06-14
       time: 11:00am - 2:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+      description: Brisbane Meshtastic Meetup. All are welcome.
       
-    - title: Monthly Admin Meeting
-      date: 2025-06-12
-      time: 8:00pm - 9:00pm
-      location: Zoom videocall 
-      description: Monthly admin and management meeting.
-
     - title: Social Meeting
       date: 2025-06-28
       time: 11:00am - 2:00pm

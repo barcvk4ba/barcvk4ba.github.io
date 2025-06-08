@@ -10,10 +10,9 @@ toc: false
 ### Club Calendar
 
 
-#### Weekly Zoom Teleconference
+#### Weekly Discord Call
 
-Each Thursday evening at 8pm we have a Zoom call. Everyone is welcome, so
-contact us and we will happily send you the link.
+Each Thursday evening at 8pm we have a Discord call.
 
 ### Club Meetings and Events
 
