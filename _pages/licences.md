@@ -18,7 +18,7 @@ Make sure you study for the Australian licence and refer to the [ACMA Syllabus)]
 For more details, visit [ACMA Qualifications)](https://www.acma.gov.au/qualifications-operate-amateur-radio)
 
 # Taking the exam
-When you can confidently complete most of the sample questions contact our [**Accredited Assessors**](mailto:exams@barcvk4ba.com.au) who will arrange your exam. Some notice is required to arrange printing of exam papers. Please refer to the club calendar for the next exams session. There is no cost for the exam and Assessors are unpaid volunteers. The exam can take 2 - 3 hours.
+When you can confidently complete most of the sample questions contact our [**Accredited Assessors**](mailto:exams@barc.org.au) who will arrange your exam. Some notice is required to arrange printing of exam papers. Please refer to the club calendar for the next exams session. There is no cost for the exam and Assessors are unpaid volunteers. The exam can take 2 - 3 hours.
 
 The Theory exam consists of a formal written multi choice exam supervised by an Accredited Assessor. The assessor will mark the exam and will tell you if you have passed or failed. The pass mark is 70%.
 
