@@ -21,256 +21,187 @@
 
 events:
    
-    - title: Club Christmas Lunch
-      date: 2024-12-07
-      time: 12:00pm
-      location: Club Southside - 76 Mount Gravatt Capalaba Rd, Upper Mount Gravatt 
-      description: Club Christmas lunch. All are welcome.
-
-    - title: Monthly Meeting
-      date: 2024-12-12
+    - title: First Tech Talk 2026
+      date: 2026-02-12
       time: 8:00pm - 9:00pm
-      location: Zoom videocall 
-      description: Monthly admin and management meeting. Last for 2024.
-
-    - title: Social Meeting
-      date: 2024-12-14
-      time: 12:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome. Last for 2024.
-
-    - title: First Tech Talk 2025
-      date: 2025-02-06
-      time: 8:00pm - 9:00pm
-      location: Zoom Videocall
-      description: All are welcome
-
-    - title: First Social Meeting 2025
-      date: 2025-02-08
-      time: 12:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: First Monthly Admin Meeting 2025
-      date: 2025-02-13
-      time: 8:00pm - 9:00pm
-      location: Zoom videocall 
-      description: Monthly admin and management meeting.
-
-    - title: Social Meeting
-      date: 2025-02-22
-      time: 12:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2025-03-08
-      time: 12:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Monthly Admin Meeting
-      date: 2025-03-13
-      time: 8:00pm - 9:00pm
-      location: Zoom videocall 
-      description: Monthly admin and management meeting.
-
-    - title: Social Meeting
-      date: 2025-03-22
-      time: 12:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Social Meeting
-      date: 2025-04-05
-      time: 12:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Redfest 25
-      date: 2025-04-12
-      time: 08:00am
-      location: Deception Bay North State School
-      description: Redcliffe Radio Club Hamfest.
-
-    - title: Tech Talk
-      date: 2025-04-10
-      time: 8:00pm - 9:00pm
-      location: Zoom videocall 
+      location: Discord
       
-    - title: Social Meeting
-      date: 2025-04-26
-      time: 12:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Amateur Licence Exams
-      date: 2025-05-10
-      time: 9:30am
-      location: BARC Clubhouse, Rochedale Scout Hall
-      
-    - title: Social Meeting
-      date: 2025-05-10
-      time: 12:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Monthly Admin Meeting
-      date: 2025-05-08
-      time: 8:00pm - 9:00pm
-      location: Zoom videocall 
-      description: Monthly admin and management meeting.
-
-    - title: Social Meeting
-      date: 2025-05-24
-      time: 12:00pm - 3:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Amateur Licence Exams
-      date: 2025-06-14
-      time: 9:30am
-      location: BARC Clubhouse, Rochedale Scout Hall
-
-    - title: Brisbane Meshtastic Meetup
-      date: 2025-06-14
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Brisbane Meshtastic Meetup. All are welcome.
-      
-    - title: Social Meeting
-      date: 2025-06-28
+    - title: First Social Meeting 2026
+      date: 2026-02-14
       time: 11:00am - 2:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Amateur Licence Exams
-      date: 2025-07-12
+      date: 2026-02-14
       time: 9:30am
       location: BARC Clubhouse, Rochedale Scout Hall
 
     - title: Social Meeting
-      date: 2025-07-12
+      date: 2026-02-28
+      time: 11:00am - 2:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. All are welcome.
+
+    - title: Amateur Licence Exams
+      date: 2026-03-14
+      time: 9:30am
+      location: BARC Clubhouse, Rochedale Scout Hall
+
+    - title: Social Meeting
+      date: 2026-03-14
+      time: 11:00am - 2:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. All are welcome.
+
+    - title: Social Meeting
+      date: 2026-03-28
+      time: 11:00am - 2:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. All are welcome.
+
+    - title: Social Meeting
+      date: 2026-04-11
+      time: 11:00am - 2:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. All are welcome.
+
+    - title: Amateur Licence Exams
+      date: 2026-04-11
+      time: 9:30am
+      location: BARC Clubhouse, Rochedale Scout Hall
+
+    - title: Amateur Licence Exams
+      date: 2026-05-09
+      time: 9:30am
+      location: BARC Clubhouse, Rochedale Scout Hall
+      
+    - title: Social Meeting
+      date: 2026-05-09
+      time: 11:00am - 2:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. All are welcome.
+
+    - title: Social Meeting
+      date: 2026-05-23
+      time: 11:00am - 2:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. All are welcome.
+
+    - title: Social Meeting
+      date: 2026-06-13
+      time: 11:00am - 2:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. All are welcome.
+
+    - title: Amateur Licence Exams
+      date: 2026-06-13
+      time: 9:30am
+      location: BARC Clubhouse, Rochedale Scout Hall
+
+    - title: Social Meeting
+      date: 2026-06-27
+      time: 11:00am - 2:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. All are welcome.
+
+    - title: Amateur Licence Exams
+      date: 2026-07-11
+      time: 9:30am
+      location: BARC Clubhouse, Rochedale Scout Hall
+
+    - title: Social Meeting
+      date: 2026-07-11
       time: 11:00am - 2:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
       
     - title: Annual General Meeting
-      date: 2025-07-10
+      date: 2026-07-09
       time: 8:00pm - 9:00pm
-      location: Discord videocall 
+      location: Discord
       
     - title: Social Meeting
-      date: 2025-07-26
+      date: 2026-07-25
       time: 11:00am - 2:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Amateur Licence Exams
-      date: 2025-08-09
+      date: 2026-08-08
       time: 9:30am
       location: BARC Clubhouse, Rochedale Scout Hall
 
     - title: Social Meeting
-      date: 2025-08-09
+      date: 2026-08-08
       time: 11:00am - 2:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
    
-    - title: Monthly Admin Meeting
-      date: 2025-08-14
-      time: 8:00pm - 9:00pm
-      location: Discord videocall 
-      description: Monthly admin and management meeting.
-
     - title: Social Meeting
-      date: 2025-08-23
+      date: 2026-08-22
       time: 11:00am - 2:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Amateur Licence Exams
-      date: 2025-09-13
+      date: 2026-09-12
       time: 9:30am
       location: BARC Clubhouse, Rochedale Scout Hall
 
     - title: Social Meeting
-      date: 2025-09-13
+      date: 2026-09-12
       time: 11:00am - 2:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
    
-    - title: Monthly Admin Meeting
-      date: 2025-09-11
-      time: 8:00pm - 9:00pm
-      location: Discord videocall 
-      description: Monthly admin and management meeting.
-
     - title: Social Meeting
-      date: 2025-09-27
+      date: 2026-09-26
       time: 11:00am - 2:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Amateur Licence Exams
-      date: 2025-10-11
+      date: 2026-10-10
       time: 9:30am
       location: BARC Clubhouse, Rochedale Scout Hall
 
     - title: Social Meeting
-      date: 2025-10-11
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-
-    - title: Monthly Admin Meeting
-      date: 2025-10-09
-      time: 8:00pm - 9:00pm
-      location: Discord videocall 
-      description: Monthly admin and management meeting.
-
-    - title: Social Meeting
-      date: 2025-10-25
+      date: 2026-10-10
       time: 11:00am - 2:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Social Meeting
-      date: 2025-11-08
+      date: 2026-10-24
+      time: 11:00am - 2:00pm
+      location: BARC Clubhouse, Rochedale Scout Hall
+      description: Regular social gathering. All are welcome.
+
+    - title: Social Meeting
+      date: 2026-11-14
       time: 11:00am - 2:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
     - title: Amateur Licence Exams
-      date: 2025-11-08
+      date: 2026-11-14
       time: 9:30am
       location: BARC Clubhouse, Rochedale Scout Hall
       
     - title: Social Meeting
-      date: 2025-11-22
+      date: 2026-11-28
       time: 11:00am - 2:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
 
-
-    - title: Christmas Lunch
-      date: 2025-12-06
-      time: 12:00pm
-      location: Club SouthSide, Upper Mt Gravatt
-
     - title: Amateur Licence Exams
-      date: 2025-12-13
+      date: 2026-12-12
       time: 9:30am
       location: BARC Clubhouse, Rochedale Scout Hall
 
     - title: Social Meeting
-      date: 2025-12-13
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-      
-    - title: Social Meeting
-      date: 2026-02-14
+      date: 2026-12-12
       time: 11:00am - 2:00pm
       location: BARC Clubhouse, Rochedale Scout Hall
       description: Regular social gathering. All are welcome.
