@@ -66,6 +66,9 @@ leftnav:
           - title: Get Your Licence
             url: /licences/
 
+          - title: POTA - Activations
+            url: /pota/
+
     - title: Other
       children:
           - title: Links
@@ -82,9 +85,6 @@ leftnav:
       children:
           - title: Jota SDR & Info
             url: /jota/
-
-          - title: Jota Map 2024
-            url: /jotaMap/
 
           - title: Jota Morse Code
             url: /jotaMorse/
