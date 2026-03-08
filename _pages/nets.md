@@ -16,6 +16,10 @@ Each Tuesday night from 8:00PM on Mt Glorious repeater (VK4RES).
 
 Adjust your radio to **RX 147.125MHz** and **TX 147.725** (91.5Hz tone required).
 
+# Thursday Evening Discord Tech Talk
+
+Each Thursday nigh from 8:PM on Discord. Club members only.
+
 # Sunday Evening 6m Net
 
 Each Sunday night from 8:00PM on The Knobby repeater (VK4RBX).
