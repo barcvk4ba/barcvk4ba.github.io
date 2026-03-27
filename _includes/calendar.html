@@ -44,7 +44,7 @@
         <tr>
             <td>
                 <nobr>{{ e.date | date: "%a %d %b, %Y" }}</nobr>
-                <br/>{{ e.time }}
+                <br/>{{ e.date | append: "T" | append: e.start | date: "%l:%M %P" }} - {{ e.date | append: "T" | append: e.end | date: "%l:%M %P" }}
             </td>
             <td>
                 <strong>{{ e.title }}</strong><br/><small>{{ e.location }}</small>

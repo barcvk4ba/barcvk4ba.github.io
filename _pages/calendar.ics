@@ -1,0 +1,43 @@
+---
+title: Calendar
+permalink: /barc_calendar.ics
+toc: false
+layout: none
+#
+# The list calendar is sourced from the _data/calendar.yml file.
+# 
+# This is a "txt" file to avoid any HTML tag rendering
+#
+# We check for unique IDs by extracting them and counting the number of 
+# unique ones. If there is a miss-match, we will generate an error by 
+# attempting to include a non-existent file. This is hacky, but there seems
+# to be no other way.
+#
+---
+{%- assign events = site.data.calendar.events | sort: "date" -%}
+{%- assign unique_ids = events | map: "id" | uniq -%}
+{%- if events.size != unique_ids.size -%}
+{%- include ERROR.DUPLICATE_IDS_FOUND_IN_CALENDAR_ENTRIES.ERROR -%}
+{%- endif -%}
+BEGIN:VCALENDAR
+PRODID:-//BARC.org.au//BARC Calendar v1.0//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BARC Calendar
+X-WR-CALDESC:Brisbane Amateur Radio Club Events Calendar
+X-WR-TIMEZONE:Australia/Brisbane
+{%- for e in events -%}
+BEGIN:VEVENT
+UID:{{ e.id }}@calendar.barc.org.au
+ORGANIZER:calendar@barc.org.au
+DTSTAMP;TZID=Australia/Brisbane:{{ site.time | date: "%Y%m%dT%H%M%S" }}
+DTSTART;TZID=Australia/Brisbane:{{ e.date | append: "T" | append: e.start | date: "%Y%m%dT%H%M%S" }}
+DTEND;TZID=Australia/Brisbane:{{ e.date | append: "T" | append: e.end | date: "%Y%m%dT%H%M%S" }}
+SUMMARY:{{ e.title }}
+LOCATION:{{ e.location }}
+TRANSP:OPAQUE
+END:VEVENT
+{%- endfor -%}
+END:VCALENDAR
+
