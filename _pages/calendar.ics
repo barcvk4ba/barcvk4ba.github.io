@@ -27,7 +27,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:BARC Calendar
 X-WR-CALDESC:Brisbane Amateur Radio Club Events Calendar
 X-WR-TIMEZONE:Australia/Brisbane
-{%- for e in events -%}
+{%- for e in events %}
 BEGIN:VEVENT
 UID:{{ e.id }}@calendar.barc.org.au
 ORGANIZER:calendar@barc.org.au
@@ -38,6 +38,6 @@ SUMMARY:{{ e.title }}
 LOCATION:{{ e.location }}
 TRANSP:OPAQUE
 END:VEVENT
-{%- endfor -%}
+{%- endfor %}
 END:VCALENDAR
 
