@@ -5,10 +5,15 @@
 #
 # events:
 #   title: The title
-#   date: YYYY-MM-DD date 
-#   time: The time of the entry
+#   id: <unique serial ID > MUST BE UNIQUE AND NOT CHANGED AFTER CREATED - tracks instance in external calendars
+#   date: YYYY-MM-DD date
+#   start: "HH:MM" 24hr start time
+#   end: "HH:MM" 24hr end time
 #   location: Where is it?
 #   description: Some description of what is happening
+#
+# NOTE: the start and end times must be in 24 hour notation and in Quotes (")
+#       or the parsing won't work properly
 #
 # When we render this list in _includes/calendar.html, we do some processing
 # to skip any events from days that have passed.
@@ -18,175 +23,232 @@
 # schedule.
 #
 
-
 events:
-   
-    - title: First Tech Talk 2026
-      date: 2026-02-12
-      time: 8:00pm - 9:00pm
-      location: Discord
-      
-    - title: First Social Meeting 2026
-      date: 2026-02-14
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+  - title: First Tech Talk 2026
+    id: "2026-0001"
+    date: 2026-02-12
+    start: "20:00"
+    end: "21:00"
+    location: Discord
 
-    - title: Amateur Licence Exams
-      date: 2026-02-14
-      time: 9:30am
-      location: BARC Clubhouse, Rochedale Scout Hall
+  - title: First Social Meeting 2026
+    id: "2026-0002"
+    date: 2026-02-14
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
 
-    - title: Social Meeting
-      date: 2026-02-28
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Special guest Marty VK4KC (Mad Dog Coils). All are welcome.
-    
-    - title: Social Meeting
-      date: 2026-03-28
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+  - title: Amateur Licence Exams
+    id: "2026-0003"
+    date: 2026-02-14
+    start: "09:30"
+    end: "10:30"
+    location: BARC Clubhouse, Rochedale Scout Hall
 
-    - title: Social Meeting
-      date: 2026-04-11
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+  - title: Social Meeting
+    id: "2026-0004"
+    date: 2026-02-28
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Special guest Marty VK4KC (Mad Dog Coils). All are welcome.
 
-    - title: Amateur Licence Exams
-      date: 2026-04-11
-      time: 9:30am
-      location: BARC Clubhouse, Rochedale Scout Hall
+  - title: Social Meeting
+    id: "2026-0005"
+    date: 2026-03-28
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
 
-    - title: Amateur Licence Exams
-      date: 2026-05-09
-      time: 9:30am
-      location: BARC Clubhouse, Rochedale Scout Hall
-      
-    - title: Social Meeting
-      date: 2026-05-09
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+  - title: Social Meeting
+    id: "2026-0006"
+    date: 2026-04-11
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
 
-    - title: Social Meeting
-      date: 2026-05-23
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+  - title: Amateur Licence Exams
+    id: "2026-0007"
+    date: 2026-04-11
+    start: "09:30"
+    end: "10:30"
+    location: BARC Clubhouse, Rochedale Scout Hall
 
-    - title: Social Meeting
-      date: 2026-06-13
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+  - title: Amateur Licence Exams
+    id: "2026-0008"
+    date: 2026-05-09
+    start: "09:30"
+    end: "10:30"
+    location: BARC Clubhouse, Rochedale Scout Hall
 
-    - title: Social Meeting
-      date: 2026-06-27
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+  - title: Social Meeting
+    id: "2026-0009"
+    date: 2026-05-09
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
 
-    - title: Amateur Licence Exams
-      date: 2026-07-11
-      time: 9:30am
-      location: BARC Clubhouse, Rochedale Scout Hall
+  - title: Social Meeting
+    id: "2026-0010"
+    date: 2026-05-23
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
 
-    - title: Social Meeting
-      date: 2026-07-11
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-      
-    - title: Annual General Meeting
-      date: 2026-07-09
-      time: 8:00pm - 9:00pm
-      location: Discord
-      
-    - title: Social Meeting
-      date: 2026-07-25
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+  - title: Social Meeting
+    id: "2026-0011"
+    date: 2026-06-13
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
 
-    - title: Amateur Licence Exams
-      date: 2026-08-08
-      time: 9:30am
-      location: BARC Clubhouse, Rochedale Scout Hall
+  - title: Social Meeting
+    id: "2026-0012"
+    date: 2026-06-27
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
 
-    - title: Social Meeting
-      date: 2026-08-08
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-   
-    - title: Social Meeting
-      date: 2026-08-22
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+  - title: Amateur Licence Exams
+    id: "2026-0013"
+    date: 2026-07-11
+    start: "09:30"
+    end: "10:30"
+    location: BARC Clubhouse, Rochedale Scout Hall
 
-    - title: Amateur Licence Exams
-      date: 2026-09-12
-      time: 9:30am
-      location: BARC Clubhouse, Rochedale Scout Hall
+  - title: Social Meeting
+    id: "2026-0014"
+    date: 2026-07-11
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
 
-    - title: Social Meeting
-      date: 2026-09-12
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
-   
-    - title: Social Meeting
-      date: 2026-09-26
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+  - title: Annual General Meeting
+    id: "2026-0015"
+    date: 2026-07-09
+    start: "20:00"
+    end: "21:00"
+    location: Discord
 
-    - title: Amateur Licence Exams
-      date: 2026-10-10
-      time: 9:30am
-      location: BARC Clubhouse, Rochedale Scout Hall
+  - title: Social Meeting
+    id: "2026-0016"
+    date: 2026-07-25
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
 
-    - title: Social Meeting
-      date: 2026-10-10
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+  - title: Amateur Licence Exams
+    id: "2026-0017"
+    date: 2026-08-08
+    start: "09:30"
+    end: "10:30"
+    location: BARC Clubhouse, Rochedale Scout Hall
 
-    - title: Social Meeting
-      date: 2026-10-24
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+  - title: Social Meeting
+    id: "2026-0018"
+    date: 2026-08-08
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
 
-    - title: Social Meeting
-      date: 2026-11-14
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+  - title: Social Meeting
+    id: "2026-0019"
+    date: 2026-08-22
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
 
-    - title: Amateur Licence Exams
-      date: 2026-11-14
-      time: 9:30am
-      location: BARC Clubhouse, Rochedale Scout Hall
-      
-    - title: Social Meeting
-      date: 2026-11-28
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+  - title: Amateur Licence Exams
+    id: "2026-0020"
+    date: 2026-09-12
+    start: "09:30"
+    end: "10:30"
+    location: BARC Clubhouse, Rochedale Scout Hall
 
-    - title: Amateur Licence Exams
-      date: 2026-12-12
-      time: 9:30am
-      location: BARC Clubhouse, Rochedale Scout Hall
+  - title: Social Meeting
+    id: "2026-0021"
+    date: 2026-09-12
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
 
-    - title: Social Meeting
-      date: 2026-12-12
-      time: 11:00am - 2:00pm
-      location: BARC Clubhouse, Rochedale Scout Hall
-      description: Regular social gathering. All are welcome.
+  - title: Social Meeting
+    id: "2026-0022"
+    date: 2026-09-26
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
 
+  - title: Amateur Licence Exams
+    id: "2026-0023"
+    date: 2026-10-10
+    start: "09:30"
+    end: "10:30"
+    location: BARC Clubhouse, Rochedale Scout Hall
+
+  - title: Social Meeting
+    id: "2026-0024"
+    date: 2026-10-10
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
+
+  - title: Social Meeting
+    id: "2026-0025"
+    date: 2026-10-24
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
+
+  - title: Social Meeting
+    id: "2026-0026"
+    date: 2026-11-14
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
+
+  - title: Amateur Licence Exams
+    id: "2026-0027"
+    date: 2026-11-14
+    start: "09:30"
+    end: "10:30"
+    location: BARC Clubhouse, Rochedale Scout Hall
+
+  - title: Social Meeting
+    id: "2026-0028"
+    date: 2026-11-28
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
+
+  - title: Amateur Licence Exams
+    id: "2026-0029"
+    date: 2026-12-12
+    start: "09:30"
+    end: "10:30"
+    location: BARC Clubhouse, Rochedale Scout Hall
+
+  - title: Social Meeting
+    id: "2026-0030"
+    date: 2026-12-12
+    start: "11:00"
+    end: "14:00"
+    location: BARC Clubhouse, Rochedale Scout Hall
+    description: Regular social gathering. All are welcome.
