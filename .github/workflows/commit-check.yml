@@ -6,8 +6,8 @@ name: CI Verification Build
 
 on:
   # Runs on pushes targeting the default branch
-  push:
-    branches-ignore:
+  pull_request:
+    branches:
       - main
   workflow_dispatch:
 
