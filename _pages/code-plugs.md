@@ -37,9 +37,9 @@ _Intro Screen Lines_.
 
 ## Retevis RT3s with OpenGD77 Firmware
 
-**Curent File:** [RT3 OpenGD77 20250615.g77](/assets/codeplugs/RT3_OpenGD77_20250615.g77)
+**Curent File:** [RT3 OpenGD77 20260329.g77](/assets/codeplugs/RT3_OpenGD77_20260329.g77)
 <br/>
-**Updated:** 2025-06-15
+**Updated:** 2026-03-29
 <br/>
 <br/>
 Please ensure you set your _**Radio ID**_, _**Radio Name**_, and customise your
