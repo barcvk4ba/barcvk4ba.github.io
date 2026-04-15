@@ -14,7 +14,7 @@ Note that horizontally polarised antennas are being used. Directional, verticall
 
 Each Tuesday night from 8:00PM on Mt Glorious repeater (VK4RES).
 
-Adjust your radio to **RX 147.125MHz** and **TX 147.725** (91.5Hz tone required).
+Adjust your radio to **RX 147.225MHz** and **TX 147.825** (91.5Hz tone required).
 
 # Thursday Evening Discord Tech Talk
 
