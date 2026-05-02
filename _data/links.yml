@@ -31,10 +31,6 @@
 
 - name: Antenna Sites
   links:
-    - url: https://archive.org/details/w4rnlantenna
-      title: Antenna Service and Education (on Archive.org)
-      detail: This is and excellent antenna site by W4RNL, a must see.
-
     - url: http://calc.n6ach.com/quad.html
       title: Quad Antenna
       detail: Javascript Calculator
@@ -58,11 +54,8 @@
     - url: http://vk4qd.com/
       title: Caboolture Amateur Radio Club
 
-    - url: http://vk4wip.org.au/
+    - url: https://ipswichradioclub.org.au/
       title: Ipswich and District Radio Club.
-
-    - url: http://www.southsidears.org.au/sars/
-      title: Southside Amateur Radio Society
 
     - url: https://vk4wis.org/
       title: Sunshine Coast Amateur Radio Club
@@ -82,14 +75,8 @@
     - url: http://www.gceginc.org.au/
       title: Gympie Communications & Electronics Group
 
-    - url: http://www.qdg.org.au/
-      title: Queensland Digital Group
-
     - url: http://www.ccarc.org.au
       title: Central Coast Amateur Radio Club
-
-    - url: http://www.guam.net/pub/midxa/index.html
-      title: Mariana Islands DX Association Home Pages.
 
     - url: http://www.emdrc.com.au
       title: Eastern and Mountain District Radio Club
@@ -108,6 +95,21 @@
 
     - url: http://www.vk2bv.org/
       title: Waverley Amateur Radio Club
+
+- name: Digital & Packet Radio
+  links:
+
+    - url: http://www.savin.org/gateways/
+      title: Packet Gateways
+      detail: Internet to Packet telnet links.
+
+    - url: http://www.sv2agw.com/ham/
+      title: SV2AGW
+      detail: Home of another excellent packet driver using your sound card
+
+    - url: http://www.freedv.org
+      title: FreeDV
+      detail: A free open-source digital voice mode
 
 - name: Educational Sites
   links:
@@ -143,27 +145,19 @@
       title: ARRL Publications
       detail: "The Internet's #1 Amateur Radio Community"
 
-- name: Digital & Packet Radio
+- name: Morse and CW
   links:
-    - url: http://www.afthd.tu-darmstadt.de/%7Eflexnet/
-      title: PC FlexNet
-      detail: "[times out?] Get on to packet with 3 components and a sound card. Excellent!"
+    - url: https://longislandcwclub.org/
+      title: Long Island CW Club
+      detail: Learn Morse Code
 
-    - url: http://www.savin.org/gateways/
-      title: Packet Gateways
-      detail: Internet to Packet telnet links.
+    - url: https://morsecode.world/
+      title: Morse Code World
+      detail: Morse Code learning and resources
 
-    - url: http://f5vag.nerim.net/g4ide/
-      title: Peak Systems
-      detail: "[times out?] The home of G4IDE's WinPack packet radio software"
-
-    - url: http://www.sv2agw.com/ham/
-      title: SV2AGW
-      detail: Home of another excellent packet driver using your sound card
-
-    - url: http://www.freedv.org
-      title: FreeDV
-      detail: A free open-source digital voice mode
+    - url: https://sites.google.com/view/cqqrs/home
+      title: CQ QRS Net      
+      detail: Slow CW Practice net
 
 - name: Personal Pages
   links:
@@ -178,9 +172,6 @@
       title: AC6V
       detail: Amateur Radio and DX Reference Guide - Excellent!
 
-    - url: http://www.amateurradio.bz/
-      title: Amateur Radio Station KG0ZZ
-
     - url: http://www.vkham.com
       title: VKHAM
 
@@ -194,14 +185,6 @@
       title: Mini-Kits
       detail: Transverters, amplifiers, transmitters etc... from 30Mhz up
 
-    - url: http://www.alphalink.com.au/%7Eparkerp/gateway.htm
-      title: Novice Notes Online
-      detail: information resource for newcomers
-
-    - url: http://oh3tr.ele.tut.fi/english/modifications.html
-      title: OH3TR
-      detail: Ham Radio Conversion Pages
-
     - url: http://www.radiomods.co.nz/
       title: Radiomods
       detail: Amateur and CB Radio mods
@@ -213,22 +196,11 @@
     - url: http://www.mods.dk/
       title: "The #1 Ham Radio Mods Page"
 
-    - url: http://www.vintagemanuals.com/
-      title: W7FG
-      detail: Vintage Manuals.
-
     - url: https://alansfactoryoutlet.com/a-beginners-guide-to-soldering-metal-circuits-and-more/
       title: A Beginner’s Guide to Soldering Metal, Circuits, and More!
 
-    - url: http://www.lyonscomputer.com.au/Antennas/Antenna-Rotators/CDR-Rotor-Model-AR-22/CDR-Rotor-Model-AR-22.html
-      title: Cornell Dubilier CDR Rotor Model AR-22
-      detail: restoring a Cornell Dubilier Model AR-22 Rotor and Controller
-
 - name: Satellites and Space
   links:
-    - url: https://sites.google.com/site/amsataustralia/
-      title: AMSAT
-      detail: The Radio Amateur Satellite Corporation Australian site
 
     - url: http://celestrak.com/software/dransom/stsplus.html
       title: Dave Ransom Software Home Pages
