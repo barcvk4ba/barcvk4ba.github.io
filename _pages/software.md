@@ -7,8 +7,6 @@ toc: true
 ## General Software
 
 * [G4FGQ](http://www.zerobeat.net/G4FGQ/){:target="_blank"} Free Radio Computer Programs.
-* [PC FlexNet](http://www.afthd.tu-darmstadt.de/%7Eflexnet/){:target="_blank"} Get on to packet with 3 components and a sound card. Excellent!
-* [G4IDE software](http://f5vag.nerim.net/g4ide/){:target="_blank"} The WinPack packet radio software by G4IDE (silent key).
 
 ## Propagation Software
 
