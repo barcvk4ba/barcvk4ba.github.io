@@ -238,17 +238,10 @@ events:
     location: BARC Clubhouse, Rochedale Scout Hall
     description: Regular social gathering. All are welcome.
 
-  - title: Amateur Licence Exams
-    id: "2026-0029"
-    date: 2026-12-12
-    start: "09:30"
-    end: "10:30"
-    location: BARC Clubhouse, Rochedale Scout Hall
-
-  - title: Social Meeting
+  - title: Christmas Party
     id: "2026-0030"
     date: 2026-12-12
-    start: "11:00"
+    start: "12:00"
     end: "14:00"
-    location: BARC Clubhouse, Rochedale Scout Hall
-    description: Regular social gathering. All are welcome.
+    location: Club Southside, 76 Mount Gravatt Capalaba RD, Upper Mount Gravatt
+    description: Christmas Party. All are welcome.
